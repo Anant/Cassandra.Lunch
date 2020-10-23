@@ -36,7 +36,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 
 - - -
 
-### Apache Cassandra Lunch Online Meetup #11: Different Cassandra Distributions and Variants
+### [Apache Cassandra Lunch Online Meetup #11: Different Cassandra Distributions and Variants](https://blog.anant.us/cassandra-lunch-11-different-cassandra-distributions-and-variants/)
 - We discuss various Cassandra distributions ranging from Cassandra / Cassandra Compliant Databases on JVM, Cassandra Compliant Databases on C++, Cassandra as a Service / Managed Cassandra Based on Open Source Cassandra, and Cassandra as a Service / Managed Cassandra Based on Proprietary Technology. 
     - [YouTube](https://youtu.be/d7H9LNHS27M)
     - [Blog](https://blog.anant.us/cassandra-lunch-11-different-cassandra-distributions-and-variants/)
