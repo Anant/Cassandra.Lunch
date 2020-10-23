@@ -10,22 +10,25 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 - - -
 
 ## Table of Contents
-10. [Cassandra 4.0](#apache-cassandra-lunch-online-meetup-10-cassandra-40)  
-11. [Different Cassandra Distributions and Variants](#apache-cassandra-lunch-online-meetup-11-different-cassandra-distributions-and-variants) 
-12. [Cassandra & Kubernetes](#apache-cassandra-lunch-online-meetup-12-cassandra--kubernetes)
-13. [Jump Start Projects for Cassandra](#apache-cassandra-lunch-online-meetup-13-jump-start-projects-for-cassandra)
-14. [Basic Cassandra Log Diagnostics with ELK/FEK/BEK](#apache-cassandra-lunch-online-meetup-14-basic-log-diagnostics-with-elkfekbek)
-15. [Cassandra Backup and Restoration](#apache-cassandra-lunch-online-meetup-15-cassandra-backup-and-restoration)  
-16. [Cassandra Anti-Entropy, Repair, and Synchronization](#apache-cassandra-lunch-online-meetup-16-cassandra-anti-entropy-repair-and-synchronization)
-17. [Cassandra Tombstones](#apache-cassandra-lunch-online-meetup-17-cassandra-tombstones)
-18. [Connecting Cassandra to Kafka](#apache-cassandra-lunch-online-meetup-18-connecting-cassandra-to-kafka)
-19. [Combined Use of Relational Databases and Apache Cassandra](#apache-cassandra-lunch-online-meetup-19-combined-use-of-relational-databases-and-apache-cassandra)
-20. [Cassandra Read / Write Path](#apache-cassandra-lunch-online-meetup-21-cassandra-read--write-path)  
-21. [Cassandra Stages / Thread Pools](#apache-cassandra-lunch-online-meetup-21-cassandra-stages--thread-pools)
-22. [Cassandra Deployment and Admin Tools](#apache-cassandra-lunch-online-meetup-22-deployment-and-admin-tools) 
-23. [Lucene Based Indexes on Cassandra](#apache-cassandra-lunch-online-meetup-23-lucene-based-indexes-on-cassandra)
 
-- - -
+| Jump To Topic | YouTube | SlideShare |
+| --- | --- | --- |
+| [Cassandra 4.0](#apache-cassandra-lunch-online-meetup-10-cassandra-40) | [YouTube](https://youtu.be/d7H9LNHS27M) | |
+| [Different Cassandra Distributions and Variants](#apache-cassandra-lunch-online-meetup-11-different-cassandra-distributions-and-variants) | [YouTube](https://youtu.be/d7H9LNHS27M) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-distributions-and-variants-237160052) |
+| [Cassandra & Kubernetes](#apache-cassandra-lunch-online-meetup-12-cassandra--kubernetes) | [YouTube](https://youtu.be/fP8ZabIocNg) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-kubernetes) |
+| [Jump Start Projects for Cassandra](#apache-cassandra-lunch-online-meetup-13-jump-start-projects-for-cassandra) | [YouTube](https://youtu.be/33CSFYwc52k) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-13-jump-start-projects-for-cassandra) |
+| [Basic Cassandra Log Diagnostics with ELK/FEK/BEK](#apache-cassandra-lunch-online-meetup-14-basic-log-diagnostics-with-elkfekbek) | [YouTube](https://youtu.be/WL-Gs_2rAUY) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-14-basic-log-diagnostics-with-elkfekbek) |
+| [Cassandra Backup and Restoration](#apache-cassandra-lunch-online-meetup-15-cassandra-backup-and-restoration) | [YouTube](https://youtu.be/ZSHye9USdJA) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-15-cassandra-backup-restoration) |
+| [Cassandra Anti-Entropy, Repair, and Synchronization](#apache-cassandra-lunch-online-meetup-16-cassandra-anti-entropy-repair-and-synchronization) | [YouTube](https://youtu.be/Y1WB6_drmus) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-anti-entropy-repair-and-synchronization) |
+| [Cassandra Tombstones](#apache-cassandra-lunch-online-meetup-17-cassandra-tombstones) | [YouTube](https://youtu.be/FgJ_LNplfIg) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-online-meetup-17-tombstones) |
+| [Connecting Cassandra to Kafka](#apache-cassandra-lunch-online-meetup-18-connecting-cassandra-to-kafka) | [YouTube](https://youtu.be/g9ITZ_qyezs) |  |
+| [Combined Use of Relational Databases and Apache Cassandra](#apache-cassandra-lunch-online-meetup-19-combined-use-of-relational-databases-and-apache-cassandra) | [YouTube](https://youtu.be/wJEukGjOPII) | [SlideShare](https://www.slideshare.net/AnantCorp/migrating-from-a-relational-database-to-cassandra-why-where-when-and-how) |
+| [Cassandra Read / Write Path](#apache-cassandra-lunch-online-meetup-20-cassandra-read--write-path) | [YouTube](https://youtu.be/SP5v3BxEl6Y) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-20-cassandra-read-and-write-paths) |
+| [Cassandra Stages / Thread Pools](#apache-cassandra-lunch-online-meetup-21-cassandra-stages--thread-pools) | [YouTube](https://youtu.be/ivPXKp5HqF4) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-21-cassandra-stages-thread-pools) |
+| [Cassandra Deployment and Admin Tools](#apache-cassandra-lunch-online-meetup-22-deployment-and-admin-tools) | [YouTube](https://youtu.be/SvHXNjOu__U) | [SlideShare](https://www.slideshare.net/AnantCorp/how-to-build-a-multidc-cassandra-cluster-in-aws-with-opscenter-lcm) |
+| [Lucene Based Indexes on Cassandra](#apache-cassandra-lunch-online-meetup-23-lucene-based-indexes-on-cassandra) | [YouTube](https://youtu.be/Z0NXWmZAB8s) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-23-lucene-based-indexes-on-cassandra) |
+
+- - - 
 
 ### Apache Cassandra Lunch Online Meetup #10: Cassandra 4.0
 - We discuss and take an in-depth look at the improvements and new features that come with Cassandra 4.0.
