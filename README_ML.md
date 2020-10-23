@@ -11,8 +11,8 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 
 - - -
 
-### Apache Cassandra Lunch Online Meetup #10: Cassandra 4.0
-- We discuss and take an in-depth look at the improvements and new features that come with Cassandra 4.0.
+- **Apache Cassandra Lunch Online Meetup #10: Cassandra 4.0**
+    - We discuss and take an in-depth look at the improvements and new features that come with Cassandra 4.0.
     - [YouTube](https://youtu.be/GfmApaHY04o)
 
 - - -
