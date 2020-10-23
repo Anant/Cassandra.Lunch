@@ -13,7 +13,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 
 | Jump To Topic | YouTube | SlideShare |
 | --- | --- | --- |
-| [Cassandra 4.0](#apache-cassandra-lunch-online-meetup-10-cassandra-40) | [YouTube](https://youtu.be/d7H9LNHS27M) | |
+| [Cassandra 4.0](#apache-cassandra-lunch-online-meetup-10-cassandra-40) | [YouTube](https://youtu.be/GfmApaHY04o) | |
 | [Different Cassandra Distributions and Variants](#apache-cassandra-lunch-online-meetup-11-different-cassandra-distributions-and-variants) | [YouTube](https://youtu.be/d7H9LNHS27M) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-distributions-and-variants-237160052) |
 | [Cassandra & Kubernetes](#apache-cassandra-lunch-online-meetup-12-cassandra--kubernetes) | [YouTube](https://youtu.be/fP8ZabIocNg) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-kubernetes) |
 | [Jump Start Projects for Cassandra](#apache-cassandra-lunch-online-meetup-13-jump-start-projects-for-cassandra) | [YouTube](https://youtu.be/33CSFYwc52k) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-13-jump-start-projects-for-cassandra) |
