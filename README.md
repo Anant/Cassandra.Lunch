@@ -27,6 +27,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [Cassandra Stages / Thread Pools](#apache-cassandra-lunch-online-meetup-21-cassandra-stages--thread-pools) | [YouTube](https://youtu.be/ivPXKp5HqF4) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-21-cassandra-stages-thread-pools) |
 | [Cassandra Deployment and Admin Tools](#apache-cassandra-lunch-online-meetup-22-deployment-and-admin-tools) | [YouTube](https://youtu.be/SvHXNjOu__U) | [SlideShare](https://www.slideshare.net/AnantCorp/how-to-build-a-multidc-cassandra-cluster-in-aws-with-opscenter-lcm) |
 | [Lucene Based Indexes on Cassandra](#apache-cassandra-lunch-online-meetup-23-lucene-based-indexes-on-cassandra) | [YouTube](https://youtu.be/Z0NXWmZAB8s) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-23-lucene-based-indexes-on-cassandra) |
+| [Cassandra Use Cases](#apache-cassandra-lunch-online-meetup-24-cassandra-use-cases) | [YouTube](https://youtu.be/5E5okjOS5Sk) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-24-cassandra-use-cases) |
 
 - - - 
 
@@ -123,6 +124,13 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 - We discuss packaged and DIY methods for Lucene based indexes on Cassandra; as well as, give some pros and cons for using Lucene Based Indexes on Cassandra.
     - [YouTube](https://youtu.be/Z0NXWmZAB8s)
     - [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-23-lucene-based-indexes-on-cassandra)
+
+- - -
+
+### [Apache Cassandra Lunch Online Meetup #24: Cassandra Use Cases](https://blog.anant.us/apache-cassandra-lunch-24-cassandra-use-cases/)
+- We discuss a number of use cases for Cassandra, focusing on Cassandra's place in running a digital business technology platform.
+    - [YouTube](https://youtu.be/5E5okjOS5Sk)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-24-cassandra-use-cases)
 
 - - -
 
