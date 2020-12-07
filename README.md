@@ -29,6 +29,11 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [Lucene Based Indexes on Cassandra](#apache-cassandra-lunch-online-meetup-23-lucene-based-indexes-on-cassandra) | [YouTube](https://youtu.be/Z0NXWmZAB8s) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-23-lucene-based-indexes-on-cassandra) |
 | [Cassandra Use Cases](#apache-cassandra-lunch-online-meetup-24-cassandra-use-cases) | [YouTube](https://youtu.be/5E5okjOS5Sk) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-24-cassandra-use-cases) |
 | [Cassandra Use Cases - Reference Architectures](#apache-cassandra-lunch-online-meetup-25-cassandra-use-cases---reference-architectures) | [YouTube](https://youtu.be/ON63js4p8kI) | [SlideShare](https://www.slideshare.net/AnantCorp/realtime-business-platform-architecture-review) |
+| [Cassandra Troubleshooting with Logs](#apache-cassandra-lunch-online-meetup-26-cassandra-troubleshooting-with-logs) | [YouTube](https://youtu.be/Pns8o4BbaRE) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-26-cassandra-troubleshooting-with-logs) |
+| [Cassandra on Baremetal / Virtual Machines / Containers](#apache-cassandra-lunch-online-meetup-27-cassandra-on-baremetal--virtual-machines--containers) | [YouTube](https://youtu.be/5-7bz7es3Ac) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-27-cassandra-on-baremetal-virtual-machines-containers) |
+| [Cassandra Backup / Restore Scenarios](#apache-cassandra-lunch-online-meetup-28-cassandra-backup--restore-scenarios) | [YouTube](https://youtu.be/Vhi_bXwj19g) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-15-cassandra-backup-restoration) |
+| [Cassandra & Kubernetes Update](#apache-cassandra-lunch-online-meetup-29-cassandra--kubernetes-update) | [YouTube](https://youtu.be/DJ62eRi6eDY) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-29-cassandra-kubernetes-update) |
+| [Cassandra and Spark Foundations](#apache-cassandra-lunch-online-meetup-30-cassandra-and-spark-foundations) | [YouTube](https://youtu.be/w3CPXTV4tmk) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-online-meetup-30-cassandra-and-spark-foundations) |
 
 - - - 
 
@@ -142,6 +147,40 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 
 - - -
 
+### [Apache Cassandra Lunch Online Meetup #26: Cassandra Troubleshooting with Logs](https://blog.anant.us/apache-cassandra-lunch-26-cassandra-troubleshooting-with-logs/)
+- We discuss how Cassandra is used for real-time data platforms; as well as, cover different reference architectures in which Cassandra is and can be used.
+    - [YouTube](https://youtu.be/Pns8o4BbaRE)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-26-cassandra-troubleshooting-with-logs)
+
+- - -
+
+### [Apache Cassandra Lunch Online Meetup #27: Cassandra on Baremetal / Virtual Machines / Containers](https://blog.anant.us/apache-cassandra-lunch-27-cassandra-on-baremetal-virtual-machines-containers/)
+- We discuss different methods in which we can deploy Cassandra whether it be on Baremetal, Virtual Machines, or Containers; as well as, pros, cons, and deployment tools.
+    - [YouTube](https://youtu.be/5-7bz7es3Ac)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-27-cassandra-on-baremetal-virtual-machines-containers)
+
+- - -
+
+### [Apache Cassandra Lunch Online Meetup #28: Cassandra Backup / Restore Scenarios](https://blog.anant.us/apache-cassandra-lunch-28-cassandra-backup-restore-scenarios/)
+- We discuss specific scenarios for Cassandra's backup and restore, some methods for restoring data to a Cassandra cluster, and covered how factors like the topology of a cluster or the need for constant uptime can affect the backup/restore process. 
+    - [YouTube](https://youtu.be/Vhi_bXwj19g)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-15-cassandra-backup-restoration)
+
+- - -
+
+### [Apache Cassandra Lunch Online Meetup #29: Cassandra & Kubernetes Update](https://blog.anant.us/apache-cassandra-lunch-29-cassandra-kubernetes-update/)
+- We discuss updates regarding Cassandra and Kubernetes after the recent KubeCon event.
+    - [YouTube](https://youtu.be/DJ62eRi6eDY)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-29-cassandra-kubernetes-update)
+
+- - -
+
+### [Apache Cassandra Lunch Online Meetup #30: Cassandra and Spark Foundations](https://blog.anant.us/cassandra-lunch-30-cassandra-spark-foundations/)
+- We discuss the basics of using Spark and Cassandra together, the advantages of each, and the advantages of using them together. We also discuss the potential drawbacks, and configuration methods for avoiding those drawbacks.
+    - [YouTube](https://youtu.be/w3CPXTV4tmk)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-online-meetup-30-cassandra-and-spark-foundations)
+
+- - -
 
 
 
