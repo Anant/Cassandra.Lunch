@@ -34,8 +34,8 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [Cassandra Backup / Restore Scenarios](#apache-cassandra-lunch-online-meetup-28-cassandra-backup--restore-scenarios) | [YouTube](https://youtu.be/Vhi_bXwj19g) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-15-cassandra-backup-restoration) |
 | [Cassandra & Kubernetes Update](#apache-cassandra-lunch-online-meetup-29-cassandra--kubernetes-update) | [YouTube](https://youtu.be/DJ62eRi6eDY) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-29-cassandra-kubernetes-update) |
 | [Cassandra and Spark Foundations](#apache-cassandra-lunch-online-meetup-30-cassandra-and-spark-foundations) | [YouTube](https://youtu.be/w3CPXTV4tmk) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-online-meetup-30-cassandra-and-spark-foundations) |
-| [Business Intelligence with Cassandra](#apache-cassandra-lunch-31-business-intelligence-with-cassandra) | [YouTube](https://youtu.be/YmbtcbpfzPQ) | [SlideShare](https://www.slideshare.net/AnantCorp/open-source-bi-tools-and-cassandra-doing-sql-and-reporting-on-cassandra) |
-| [Cassandra Data Operations – Common Ways to Move Data in Cassandra](#apache-cassandra-lunch-32-cassandra-data-operations--common-ways-to-move-data-in-cassandra) | [YouTube](https://youtu.be/LVK2PJYifDM) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-32-cassandra-data-operations-common-ways-to-move-data-in-cassandra) |
+| [Business Intelligence with Cassandra](#apache-cassandra-lunch-online-meetup-31-business-intelligence-with-cassandra) | [YouTube](https://youtu.be/YmbtcbpfzPQ) | [SlideShare](https://www.slideshare.net/AnantCorp/open-source-bi-tools-and-cassandra-doing-sql-and-reporting-on-cassandra) |
+| [Cassandra Data Operations – Common Ways to Move Data in Cassandra](#apache-cassandra-lunch-online-meetup-32-cassandra-data-operations--common-ways-to-move-data-in-cassandra) | [YouTube](https://youtu.be/LVK2PJYifDM) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-32-cassandra-data-operations-common-ways-to-move-data-in-cassandra) |
 
 - - - 
 
