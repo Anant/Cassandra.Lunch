@@ -34,6 +34,8 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [Cassandra Backup / Restore Scenarios](#apache-cassandra-lunch-online-meetup-28-cassandra-backup--restore-scenarios) | [YouTube](https://youtu.be/Vhi_bXwj19g) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-15-cassandra-backup-restoration) |
 | [Cassandra & Kubernetes Update](#apache-cassandra-lunch-online-meetup-29-cassandra--kubernetes-update) | [YouTube](https://youtu.be/DJ62eRi6eDY) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-29-cassandra-kubernetes-update) |
 | [Cassandra and Spark Foundations](#apache-cassandra-lunch-online-meetup-30-cassandra-and-spark-foundations) | [YouTube](https://youtu.be/w3CPXTV4tmk) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-online-meetup-30-cassandra-and-spark-foundations) |
+| [Business Intelligence with Cassandra](#apache-cassandra-lunch-31-business-intelligence-with-cassandra) | [YouTube](https://youtu.be/YmbtcbpfzPQ) | [SlideShare](https://www.slideshare.net/AnantCorp/open-source-bi-tools-and-cassandra-doing-sql-and-reporting-on-cassandra) |
+| [Cassandra Data Operations – Common Ways to Move Data in Cassandra](#apache-cassandra-lunch-32-cassandra-data-operations--common-ways-to-move-data-in-cassandra) | [YouTube](https://youtu.be/LVK2PJYifDM) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-32-cassandra-data-operations-common-ways-to-move-data-in-cassandra) |
 
 - - - 
 
@@ -179,6 +181,20 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 - We discuss the basics of using Spark and Cassandra together, the advantages of each, and the advantages of using them together. We also discuss the potential drawbacks, and configuration methods for avoiding those drawbacks.
     - [YouTube](https://youtu.be/w3CPXTV4tmk)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-online-meetup-30-cassandra-and-spark-foundations)
+
+- - -
+
+### [Apache Cassandra Lunch Online Meetup #31: Business Intelligence with Cassandra](https://blog.anant.us/apache-cassandra-lunch-31-business-intelligence-with-cassandra/)
+- We discuss open-source tools that can be used for BI with Cassandra including a live demo using DSE, Presto, and Metabase.
+    - [YouTube](https://youtu.be/YmbtcbpfzPQ)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/open-source-bi-tools-and-cassandra-doing-sql-and-reporting-on-cassandra)
+
+- - -
+
+### [Apache Cassandra Lunch Online Meetup #32: Cassandra Data Operations – Common Ways to Move Data in Cassandra](https://blog.anant.us/apache-cassandra-lunch-32-cassandra-data-operations-common-ways-to-move-data-in-cassandra/)
+- We discuss the various ways of moving data into and out of Cassandra clusters.
+    - [YouTube](https://youtu.be/LVK2PJYifDM)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-32-cassandra-data-operations-common-ways-to-move-data-in-cassandra)
 
 - - -
 
