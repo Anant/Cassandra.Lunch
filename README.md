@@ -36,6 +36,8 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [Cassandra and Spark Foundations](#apache-cassandra-lunch-online-meetup-30-cassandra-and-spark-foundations) | [YouTube](https://youtu.be/w3CPXTV4tmk) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-online-meetup-30-cassandra-and-spark-foundations) |
 | [Business Intelligence with Cassandra](#apache-cassandra-lunch-online-meetup-31-business-intelligence-with-cassandra) | [YouTube](https://youtu.be/YmbtcbpfzPQ) | [SlideShare](https://www.slideshare.net/AnantCorp/open-source-bi-tools-and-cassandra-doing-sql-and-reporting-on-cassandra) |
 | [Cassandra Data Operations – Common Ways to Move Data in Cassandra](#apache-cassandra-lunch-online-meetup-32-cassandra-data-operations--common-ways-to-move-data-in-cassandra) | [YouTube](https://youtu.be/LVK2PJYifDM) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-32-cassandra-data-operations-common-ways-to-move-data-in-cassandra) |
+| [Cassandra Deployment – Ansible and Terraform with Cassandra](#apache-cassandra-lunch-online-meetup-33-cassandra-deployment--ansible-and-terraform-with-cassandra) | [YouTube](https://youtu.be/gaYAKf6SQNw) | [SlideShare](https://www.slideshare.net/AnantCorp/how-to-build-a-multidc-cassandra-cluster-in-aws-with-opscenter-lcm) |
+| [Liquibase and Cassandra](#apache-cassandra-lunch-online-meetup-34-liquibase-and-cassandra) | [YouTube](https://youtu.be/okPTMB6B_Rw) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-34-liquibase-and-cassandra) |
 
 - - - 
 
@@ -198,5 +200,18 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 
 - - -
 
+### [Apache Cassandra Lunch Online Meetup #33: Cassandra Deployment – Ansible and Terraform with Cassandra](https://blog.anant.us/apache-cassandra-lunch-33-cassandra-deployment-ansible-and-terraform-with-cassandra/)
+- We discuss using Terraform and Ansible to set up the infrastructure for and handle the provisioning of a new Cassandra cluster
+    - [YouTube](https://youtu.be/gaYAKf6SQNw)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/how-to-build-a-multidc-cassandra-cluster-in-aws-with-opscenter-lcm)
+
+- - -
+
+### [Apache Cassandra Lunch Online Meetup #34: Liquibase and Cassandra](https://blog.anant.us/apache-cassandra-lunch-34-liquibase-and-cassandra/)
+- We discuss how to use Liquibase with Cassandra and DataStax Astra.
+    - [YouTube](https://youtu.be/okPTMB6B_Rw)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-34-liquibase-and-cassandra)
+
+- - -
 
 
