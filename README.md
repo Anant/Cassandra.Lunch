@@ -38,6 +38,10 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [Cassandra Data Operations – Common Ways to Move Data in Cassandra](#apache-cassandra-lunch-online-meetup-32-cassandra-data-operations--common-ways-to-move-data-in-cassandra) | [YouTube](https://youtu.be/LVK2PJYifDM) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-32-cassandra-data-operations-common-ways-to-move-data-in-cassandra) |
 | [Cassandra Deployment – Ansible and Terraform with Cassandra](#apache-cassandra-lunch-online-meetup-33-cassandra-deployment--ansible-and-terraform-with-cassandra) | [YouTube](https://youtu.be/gaYAKf6SQNw) | [SlideShare](https://www.slideshare.net/AnantCorp/how-to-build-a-multidc-cassandra-cluster-in-aws-with-opscenter-lcm) |
 | [Liquibase and Cassandra](#apache-cassandra-lunch-online-meetup-34-liquibase-and-cassandra) | [YouTube](https://youtu.be/okPTMB6B_Rw) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-34-liquibase-and-cassandra) |
+| [Data Operations with Spark and Cassandra](#apache-cassandra-lunch-online-meetup-35-data-operations-with-spark-and-cassandra) | [YouTube](https://youtu.be/fo18FOLepTg) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-35-data-operations-with-spark-and-cassandra) |
+| [Specialized Databases on Cassandra](#apache-cassandra-lunch-online-meetup-36-specialized-databases-on-cassandra) | [YouTube](https://youtu.be/6BUrpdB6ol4) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-36-specialized-databases-on-cassandra) |
+| [CQL Copy for Data Operations](#apache-cassandra-lunch-online-meetup-37-cql-copy-for-data-operations) | [YouTube](https://youtu.be/qyD_M20K7Ic) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-37-cql-copy-for-data-operations) |
+| [Cassandra SSTables and Spark](#apache-cassandra-lunch-online-meetup-38-cassandra-sstables-and-spark) | [YouTube](https://youtu.be/TPXaqL6HxOE) | [SlideShare](https://www.slideshare.net/AnantCorp/cassadralunch-38) |
 
 - - - 
 
@@ -214,4 +218,30 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 
 - - -
 
+### [Apache Cassandra Lunch Online Meetup #35: Data Operations with Spark and Cassandra](https://blog.anant.us/apache-cassandra-lunch-35-data-operations-with-spark-and-cassandra/)
+- We discuss some basic data operations that you can do with Apache Spark and Cassandra.
+    - [YouTube](https://youtu.be/fo18FOLepTg)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-35-data-operations-with-spark-and-cassandra)
 
+- - -
+
+### [Apache Cassandra Lunch Online Meetup #36: Specialized Databases on Cassandra](https://blog.anant.us/apache-cassandra-lunch-36-specialized-databases-on-cassandra/)
+- We discuss various databases that can run on top of Cassandra.
+    - [YouTube](https://youtu.be/6BUrpdB6ol4)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-36-specialized-databases-on-cassandra)
+
+- - -
+
+### [Apache Cassandra Lunch Online Meetup #37: CQL Copy for Data Operations](https://blog.anant.us/apache-cassandra-lunch-37-cql-copy-for-data-operations/)
+- We discuss CQL Copy and how we can use it for Cassandra data operations.
+    - [YouTube](https://youtu.be/qyD_M20K7Ic)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-37-cql-copy-for-data-operations)
+
+- - -
+
+### [Apache Cassandra Lunch Online Meetup #38: Cassandra SSTables and Spark](https://blog.anant.us/apache-cassandra-lunch-38-cassandra-sstables-and-spark/)
+- We discuss Apache Spark projects that interact with Cassandra specifically through Cassandra’s SSTables
+    - [YouTube](https://youtu.be/TPXaqL6HxOE)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/cassadralunch-38)
+
+- - -
