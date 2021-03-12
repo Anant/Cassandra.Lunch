@@ -42,6 +42,8 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [Specialized Databases on Cassandra](#apache-cassandra-lunch-online-meetup-36-specialized-databases-on-cassandra) | [YouTube](https://youtu.be/6BUrpdB6ol4) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-36-specialized-databases-on-cassandra) |
 | [CQL Copy for Data Operations](#apache-cassandra-lunch-online-meetup-37-cql-copy-for-data-operations) | [YouTube](https://youtu.be/qyD_M20K7Ic) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-37-cql-copy-for-data-operations) |
 | [Cassandra SSTables and Spark](#apache-cassandra-lunch-online-meetup-38-cassandra-sstables-and-spark) | [YouTube](https://youtu.be/TPXaqL6HxOE) | [SlideShare](https://www.slideshare.net/AnantCorp/cassadralunch-38) |
+| [General Apache Cassandra Updates](#apache-cassandra-lunch-online-meetup-39-general-apache-cassandra-updates) | [YouTube](https://youtu.be/05FvegMilXg) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-39-general-apache-cassandra-updates) |
+| [Scylla Migrator for Cassandra Data Operations](#apache-cassandra-lunch-online-meetup-40-scylla-migrator-for-cassandra-data-operations) | [YouTube](https://youtu.be/B_nkxJsRIag) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-40-scylla-migrator-for-cassandra-data-operations) |
 
 - - - 
 
@@ -243,5 +245,19 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 - We discuss Apache Spark projects that interact with Cassandra specifically through Cassandra’s SSTables
     - [YouTube](https://youtu.be/TPXaqL6HxOE)
     - [SlideShare](https://www.slideshare.net/AnantCorp/cassadralunch-38)
+
+- - -
+
+### [Apache Cassandra Lunch Online Meetup #39: General Apache Cassandra Updates](https://blog.anant.us/apache-cassandra-lunch-39-general-apache-cassandra-updates/)
+- We discuss General Updates to Apache Cassandra and relevant articles of interest.
+    - [YouTube](https://youtu.be/05FvegMilXg)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-39-general-apache-cassandra-updates)
+
+- - -
+
+### [Apache Cassandra Lunch Online Meetup #40: Scylla Migrator for Cassandra Data Operations](https://blog.anant.us/apache-cassandra-lunch-40-scylla-migrator-for-cassandra-data-operations/)
+- We discuss Scylla’s Spark Migrator and walk through how we can use the Scylla Migrator for Cassandra Data Operations.
+    - [YouTube](https://youtu.be/B_nkxJsRIag)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-40-scylla-migrator-for-cassandra-data-operations)
 
 - - -
