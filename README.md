@@ -44,6 +44,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [Cassandra SSTables and Spark](#apache-cassandra-lunch-online-meetup-38-cassandra-sstables-and-spark) | [YouTube](https://youtu.be/TPXaqL6HxOE) | [SlideShare](https://www.slideshare.net/AnantCorp/cassadralunch-38) |
 | [General Apache Cassandra Updates](#apache-cassandra-lunch-online-meetup-39-general-apache-cassandra-updates) | [YouTube](https://youtu.be/05FvegMilXg) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-39-general-apache-cassandra-updates) |
 | [Scylla Migrator for Cassandra Data Operations](#apache-cassandra-lunch-online-meetup-40-scylla-migrator-for-cassandra-data-operations) | [YouTube](https://youtu.be/B_nkxJsRIag) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-40-scylla-migrator-for-cassandra-data-operations) |
+| [Cassandra on Kubernetes - Docker/Kubernetes/Helm - Part 1](#apache-cassandra-lunch-online-meetup-41-cassandra-on-kubernetes---dockerkuberneteshelm---part-1) | [YouTube](https://youtu.be/-I8cKQO_Qr0) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-41-cassandra-on-kubernetes-dockerkuberneteshelm-part-1) |
 
 - - - 
 
@@ -259,5 +260,12 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 - We discuss Scylla’s Spark Migrator and walk through how we can use the Scylla Migrator for Cassandra Data Operations.
     - [YouTube](https://youtu.be/B_nkxJsRIag)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-40-scylla-migrator-for-cassandra-data-operations)
+
+- - -
+
+### [Apache Cassandra Lunch Online Meetup #41: Cassandra on Kubernetes - Docker/Kubernetes/Helm - Part 1](https://blog.anant.us/apache-cassandra-lunch-41-cassandra-on-kubernetes-docker-kubernetes-helm-part-1/)
+- We discuss Cassandra on Kubernetes and give an introduction to Docker, Kubernetes, and Helm.
+    - [YouTube](https://youtu.be/-I8cKQO_Qr0)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-41-cassandra-on-kubernetes-dockerkuberneteshelm-part-1)
 
 - - -
