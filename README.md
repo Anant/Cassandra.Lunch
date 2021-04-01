@@ -45,7 +45,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [General Apache Cassandra Updates](#apache-cassandra-lunch-online-meetup-39-general-apache-cassandra-updates) | [YouTube](https://youtu.be/05FvegMilXg) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-39-general-apache-cassandra-updates) |
 | [Scylla Migrator for Cassandra Data Operations](#apache-cassandra-lunch-online-meetup-40-scylla-migrator-for-cassandra-data-operations) | [YouTube](https://youtu.be/B_nkxJsRIag) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-40-scylla-migrator-for-cassandra-data-operations) |
 | [Cassandra on Kubernetes - Docker/Kubernetes/Helm - Part 1](#apache-cassandra-lunch-online-meetup-41-cassandra-on-kubernetes---dockerkuberneteshelm---part-1) | [YouTube](https://youtu.be/-I8cKQO_Qr0) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-41-cassandra-on-kubernetes-dockerkuberneteshelm-part-1) |
-| [SSTable Files with SSTableloader](#apache-cassandra-lunch-online-meetup-42--sstable-files-with-sstableloader) | [YouTube](https://youtu.be/c8URCX4Zey8) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-42-sstable-files-with-sstableloader) |
+| [SSTable Files with SSTableloader](#apache-cassandra-lunch-online-meetup-42-sstable-files-with-sstableloader) | [YouTube](https://youtu.be/c8URCX4Zey8) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-42-sstable-files-with-sstableloader) |
 
 - - - 
 
