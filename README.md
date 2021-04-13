@@ -46,6 +46,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [Scylla Migrator for Cassandra Data Operations](#apache-cassandra-lunch-online-meetup-40-scylla-migrator-for-cassandra-data-operations) | [YouTube](https://youtu.be/B_nkxJsRIag) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-40-scylla-migrator-for-cassandra-data-operations) |
 | [Cassandra on Kubernetes - Docker/Kubernetes/Helm - Part 1](#apache-cassandra-lunch-online-meetup-41-cassandra-on-kubernetes---dockerkuberneteshelm---part-1) | [YouTube](https://youtu.be/-I8cKQO_Qr0) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-41-cassandra-on-kubernetes-dockerkuberneteshelm-part-1) |
 | [SSTable Files with SSTableloader](#apache-cassandra-lunch-online-meetup-42-sstable-files-with-sstableloader) | [YouTube](https://youtu.be/c8URCX4Zey8) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-42-sstable-files-with-sstableloader) |
+| [DSBulk with Sed & Awk](#apache-cassandra-lunch-43-dsbulk-with-sed--awk) | [YouTube](https://youtu.be/gFSICPMxcqI) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-43-dsbulk-with-sed-and-awk) |
 
 - - - 
 
@@ -275,5 +276,12 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 - We cover SSTable files, their relation to SSTableLoader, and we walk through an example using SSTableloader to load data taken from a cluster to a new, empty cluster.
     - [YouTube](https://youtu.be/c8URCX4Zey8)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-42-sstable-files-with-sstableloader)
+
+- - -
+
+### [Apache Cassandra Lunch #43: DSBulk with Sed & Awk](https://blog.anant.us/apache-cassandra-lunch-43-dsbulk-with-sed-and-awk/)
+- We will introduce DSBulk or DataStax Bulk Loader, and show how we can use it with tools like sed and awk to do ETL on Cassandra data.
+    - [YouTube](https://youtu.be/gFSICPMxcqI)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-43-dsbulk-with-sed-and-awk)
 
 - - -
