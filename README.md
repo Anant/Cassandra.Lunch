@@ -48,7 +48,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [SSTable Files with SSTableloader](#apache-cassandra-lunch-online-meetup-42-sstable-files-with-sstableloader) | [YouTube](https://youtu.be/c8URCX4Zey8) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-42-sstable-files-with-sstableloader) |
 | [DSBulk with Sed & Awk](#apache-cassandra-lunch-43-dsbulk-with-sed--awk) | [YouTube](https://youtu.be/gFSICPMxcqI) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-43-dsbulk-with-sed-and-awk) |
 | [Docker/Kubernetes/Helm Fundamentals Part 2](#apache-cassandra-lunch-44-cassandra-on-kubernetes-dockerkuberneteshelm-fundamentals-part-2) | [YouTube](https://youtu.be/4woSDfVSkUY) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-44-cassandra-on-kubernetes-dockerkuberneteshelm-fundamentals-part-2) |
-
+| [Alpakka Cassandra and Twitter](#apache-cassandra-lunch-45-alpakka-cassandra-and-twitter) | [YouTube]() | [SlideShare]() |
 - - - 
 
 ### Apache Cassandra Lunch Online Meetup #10: Cassandra 4.0
@@ -291,5 +291,12 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 - We will introduce DSBulk or DataStax Bulk Loader, and show how we can use it with tools like sed and awk to do ETL on Cassandra data.
     - [YouTube](https://youtu.be/4woSDfVSkUY)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-44-cassandra-on-kubernetes-dockerkuberneteshelm-fundamentals-part-2)
+
+- - -
+
+### [Apache Cassandra Lunch #45: Alpakka Cassandra and Twitter]()
+- In Apache Cassandra Lunch #45, we will discuss how you can stream tweets using Twitter4S (Scala Twitter client) and save them to Cassandra using Alpakka Cassandra. 
+    - [YouTube]()
+    - [SlideShare]()
 
 - - -
