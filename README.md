@@ -49,7 +49,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [DSBulk with Sed & Awk](#apache-cassandra-lunch-43-dsbulk-with-sed--awk) | [YouTube](https://youtu.be/gFSICPMxcqI) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-43-dsbulk-with-sed-and-awk) |
 | [Docker/Kubernetes/Helm Fundamentals Part 2](#apache-cassandra-lunch-44-cassandra-on-kubernetes-dockerkuberneteshelm-fundamentals-part-2) | [YouTube](https://youtu.be/4woSDfVSkUY) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-44-cassandra-on-kubernetes-dockerkuberneteshelm-fundamentals-part-2) |
 | [Alpakka Cassandra and Twitter](#apache-cassandra-lunch-45-alpakka-cassandra-and-twitter) | [YouTube](https://youtu.be/KEYO5DN9J1w) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-20-dataops-vs-devops) |
-| [Apache Spark Jobs in Scala for Cassandra Data Operations](#apache-cassandra-lunch-46-apache-spark-jobs-in-scala-for-cassandra-data-operations) | [YouTube](https://youtu.be/UsIqNiSBY9I) | [SlideShare]() |
+| [Apache Spark Jobs in Scala for Cassandra Data Operations](#apache-cassandra-lunch-46-apache-spark-jobs-in-scala-for-cassandra-data-operations) | [YouTube](https://youtu.be/UsIqNiSBY9I) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-46-apache-spark-jobs-in-scala-for-cassandra-data-operations) |
 - - - 
 
 ### Apache Cassandra Lunch Online Meetup #10: Cassandra 4.0
@@ -302,9 +302,9 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 
 - - -
 
-### [Apache Cassandra Lunch #46: Apache Spark Jobs in Scala for Cassandra Data Operations]()
+### [Apache Cassandra Lunch #46: Apache Spark Jobs in Scala for Cassandra Data Operations](https://blog.anant.us/apache-cassandra-lunch-46-apache-spark-jobs-in-scala-for-cassandra-data-operations/)
 - In Apache Cassandra Lunch #45, we will discuss how you can stream tweets using Twitter4S (Scala Twitter client) and save them to Cassandra using Alpakka Cassandra. 
     - [YouTube](https://youtu.be/UsIqNiSBY9I)
-    - [SlideShare]()
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-46-apache-spark-jobs-in-scala-for-cassandra-data-operations)
 
 - - -
