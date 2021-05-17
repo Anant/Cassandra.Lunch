@@ -51,6 +51,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [Alpakka Cassandra and Twitter](#apache-cassandra-lunch-45-alpakka-cassandra-and-twitter) | [YouTube](https://youtu.be/KEYO5DN9J1w) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-20-dataops-vs-devops) |
 | [Apache Spark Jobs in Scala for Cassandra Data Operations](#apache-cassandra-lunch-46-apache-spark-jobs-in-scala-for-cassandra-data-operations) | [YouTube](https://youtu.be/UsIqNiSBY9I) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-46-apache-spark-jobs-in-scala-for-cassandra-data-operations) |
 | [Airflow and Cassandra](#apache-cassandra-lunch-48-airflow-and-cassandra) | [YouTube](https://youtu.be/h2OCveciEIA) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-48-airflow-and-cassandra) |
+| [Spark SQL for Cassandra Data Operations](#apache-cassandra-lunch-49-spark-sql-for-cassandra-data-operations) | [YouTube](https://youtu.be/eu7Rs9d4oFg) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-49-spark-sql-for-cassandra-data-operations) |
 - - - 
 
 ### Apache Cassandra Lunch Online Meetup #10: Cassandra 4.0
@@ -313,5 +314,11 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 - In Cassandra Lunch #48, we will discuss using Airflow and Cassandra together. Airflow provides a Cassandra connection type and a Cassandra operator. We will explore what we can do to manage a Cassandra cluster via Airflow. 
     - [YouTube](https://youtu.be/h2OCveciEIA)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-48-airflow-and-cassandra)
+
+- - -
+### [Apache Cassandra Lunch #49: Spark SQL for Cassandra Data Operations](https://blog.anant.us/apache-cassandra-lunch-49-spark-sql-for-cassandra-data-operations/)
+- We will discuss how to use Spark SQL to do Cassandra data operations such as moving data in Apache Cassandra tables.
+    - [YouTube](https://youtu.be/eu7Rs9d4oFg)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-49-spark-sql-for-cassandra-data-operations)
 
 - - -
