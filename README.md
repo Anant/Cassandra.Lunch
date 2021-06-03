@@ -52,6 +52,8 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [Apache Spark Jobs in Scala for Cassandra Data Operations](#apache-cassandra-lunch-46-apache-spark-jobs-in-scala-for-cassandra-data-operations) | [YouTube](https://youtu.be/UsIqNiSBY9I) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-46-apache-spark-jobs-in-scala-for-cassandra-data-operations) |
 | [Airflow and Cassandra](#apache-cassandra-lunch-48-airflow-and-cassandra) | [YouTube](https://youtu.be/h2OCveciEIA) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-48-airflow-and-cassandra) |
 | [Spark SQL for Cassandra Data Operations](#apache-cassandra-lunch-49-spark-sql-for-cassandra-data-operations) | [YouTube](https://youtu.be/eu7Rs9d4oFg) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-49-spark-sql-for-cassandra-data-operations) |
+| [Machine Learning with Spark + Cassandra](#apache-cassandra-lunch-50-machine-learning-with-spark--cassandra) | [YouTube](https://youtu.be/myIX0kkpL9U) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-50-machine-learning-with-spark-cassandra) |
+| [Cassandra Cluster Design & Architecture](#apache-cassandra-lunch-51-cassandra-cluster-design--architecture) | [YouTube](https://youtu.be/JWeKAu7XnYk) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-51-cassandra-cluster-design-architecture) |
 - - - 
 
 ### Apache Cassandra Lunch Online Meetup #10: Cassandra 4.0
@@ -320,5 +322,17 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 - We will discuss how to use Spark SQL to do Cassandra data operations such as moving data in Apache Cassandra tables.
     - [YouTube](https://youtu.be/eu7Rs9d4oFg)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-49-spark-sql-for-cassandra-data-operations)
+
+- - -
+### [Apache Cassandra Lunch #50: Machine Learning with Spark + Cassandra](https://blog.anant.us/apache-cassandra-lunch-50-machine-learning-with-spark-cassandra/)
+- In Apache Cassandra Lunch #50, we will discuss how you can use Apache Spark and Apache Cassandra to perform basic Machine Learning tasks.
+    - [YouTube](https://youtu.be/myIX0kkpL9U)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-50-machine-learning-with-spark-cassandra)
+
+- - -
+### [Apache Cassandra Lunch #51: Cassandra Cluster Design & Architecture](https://blog.anant.us/apache-cassandra-lunch-51-cassandra-cluster-design-and-architecture/)
+- In Cassandra Lunch #51, we will discuss an overview of Cassandra cluster architecture, not to be confused with the Cassandra database architecture. Specifically, using Cassandra Datacenters to isolate workloads.
+    - [YouTube](https://youtu.be/JWeKAu7XnYk)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-51-cassandra-cluster-design-architecture)
 
 - - -
