@@ -54,6 +54,9 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [Spark SQL for Cassandra Data Operations](#apache-cassandra-lunch-49-spark-sql-for-cassandra-data-operations) | [YouTube](https://youtu.be/eu7Rs9d4oFg) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-49-spark-sql-for-cassandra-data-operations) |
 | [Machine Learning with Spark + Cassandra](#apache-cassandra-lunch-50-machine-learning-with-spark--cassandra) | [YouTube](https://youtu.be/myIX0kkpL9U) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-50-machine-learning-with-spark-cassandra) |
 | [Cassandra Cluster Design & Architecture](#apache-cassandra-lunch-51-cassandra-cluster-design--architecture) | [YouTube](https://youtu.be/JWeKAu7XnYk) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-51-cassandra-cluster-design-architecture) |
+| [Airflow and Cassandra - Cluster Management](#apache-cassandra-lunch-52-airflow-and-cassandra---cluster-management) | [YouTube](https://youtu.be/l6T735IxDiI) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-52-airflow-and-cassandra-for-cluster-management) |
+| [Cassandra ETL with Airflow and Spark](#apache-cassandra-lunch-53-cassandra-etl-with-airflow-and-spark) | [YouTube](https://youtu.be/Bex__3cwiI0) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-53-cassandra-etl-with-airflow-and-spark) |
+| [Machine Learning with Spark + Cassandra Part 2](#apache-cassandra-lunch-54-machine-learning-with-spark--cassandra-part-2) | [YouTube](https://youtu.be/3roCSBWQzRk) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-54-machine-learning-with-spark-cassandra-part-2/) |
 - - - 
 
 ### Apache Cassandra Lunch Online Meetup #10: Cassandra 4.0
@@ -336,3 +339,22 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-51-cassandra-cluster-design-architecture)
 
 - - -
+### [Apache Cassandra Lunch #52: Airflow and Cassandra - Cluster Management](https://blog.anant.us/apache-cassandra-lunch-52-airflow-and-cassandra-for-cluster-management/)
+- In Cassandra Lunch #52, we will continue our discussion on using Airflow and Cassandra together. Last time we discussed the Cassandra operators and how they allow us to manipulate data on a Cassandra cluster. This time we will explore what other Cassandra processes we can manage from Airflow.
+    - [YouTube](https://youtu.be/l6T735IxDiI)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-52-airflow-and-cassandra-for-cluster-management)
+
+- - -
+### [Apache Cassandra Lunch #53: Cassandra ETL with Airflow and Spark](https://blog.anant.us/apache-cassandra-lunch-53-cassandra-etl-with-airflow-and-spark/)
+- We will discuss how we can set up a Cassandra ETL pipeline using Airflow and Spark
+    - [YouTube](https://youtu.be/Bex__3cwiI0)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-53-cassandra-etl-with-airflow-and-spark)
+
+- - -
+### [Apache Cassandra Lunch #54: Machine Learning with Spark + Cassandra Part 2](https://blog.anant.us/apache-cassandra-lunch-54-machine-learning-with-spark-cassandra-part-2/)
+- We will discuss how we can set up a Cassandra ETL pipeline using Airflow and Spark
+    - [YouTube](https://youtu.be/3roCSBWQzRk)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-54-machine-learning-with-spark-cassandra-part-2/)
+
+- - -
+
