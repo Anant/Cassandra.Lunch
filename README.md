@@ -57,6 +57,13 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [Airflow and Cassandra - Cluster Management](#apache-cassandra-lunch-52-airflow-and-cassandra---cluster-management) | [YouTube](https://youtu.be/l6T735IxDiI) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-52-airflow-and-cassandra-for-cluster-management) |
 | [Cassandra ETL with Airflow and Spark](#apache-cassandra-lunch-53-cassandra-etl-with-airflow-and-spark) | [YouTube](https://youtu.be/Bex__3cwiI0) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-53-cassandra-etl-with-airflow-and-spark) |
 | [Machine Learning with Spark + Cassandra Part 2](#apache-cassandra-lunch-54-machine-learning-with-spark--cassandra-part-2) | [YouTube](https://youtu.be/3roCSBWQzRk) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-54-machine-learning-with-spark-cassandra-part-2/) |
+| [Migrating PostgreSQL to Cassandra](#apache-cassandra-lunch-55-migrating-postgresql-to-cassandra) | [YouTube](https://youtu.be/weVVpcg716o) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-29-introduction-to-apache-nifi) |
+| [Using Spark SQL Parquet Tables in DSEFS / DSE Analytics](#apache-cassandra-lunch-56-using-spark-sql-parquet-tables-in-dsefs--dse-analytics) | [YouTube](https://youtu.be/yaMB1FTSwUw) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-56-using-spark-sql-parquet-tables-in-dsefs-dse-analytics) |
+| [Using Secondary Indexes in Cassandra - Anil Mittana](#apache-cassandra-lunch-57-using-secondary-indexes-in-cassandra---anil-mittana) | [YouTube](https://youtu.be/H0kdNk9qb5k) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-57-using-secondary-indexes-in-cassandra) |
+| [Tools for Cassandra Titans](#apache-cassandra-lunch-58-tools-for-cassandra-titans) | [YouTube]() | [SlideShare]() |
+| [Functions in Cassandra](#apache-cassandra-lunch-59-functions-in-cassandra) | [YouTube](https://youtu.be/0XKth-HG0Po) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-59-functions-in-cassandra) |
+| [Apache Cassandra and Apache Nifi](#apache-cassandra-lunch-60-apache-cassandra-and-apache-nifi) | [YouTube]() | [SlideShare]() |
+| [Elassandra](#apache-cassandra-lunch-61-elassandra) | [YouTube](https://youtu.be/jhmYb2xcdXo) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-61-elassandra) |
 - - - 
 
 ### Apache Cassandra Lunch Online Meetup #10: Cassandra 4.0
