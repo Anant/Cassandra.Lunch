@@ -365,4 +365,9 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-54-machine-learning-with-spark-cassandra-part-2/)
 
 - - -
+### [Apache Cassandra Lunch #55: Migrating PostgreSQL to Cassandra](https://blog.anant.us/apache-cassandra-lunch-55-migrating-postgresql-to-cassandra/)
+- We will discuss the process and reasons for migrating your database from SQL(PostgreSQL) to NoSQL(Cassandra)
+    - [YouTube](https://youtu.be/nNfq-XdcdNA)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-55-migrating-postgresql-to-cassandra)
 
+- - -
