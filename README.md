@@ -62,9 +62,15 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [Using Secondary Indexes in Cassandra - Anil Mittana](#apache-cassandra-lunch-57-using-secondary-indexes-in-cassandra---anil-mittana) | [YouTube](https://youtu.be/H0kdNk9qb5k) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-57-using-secondary-indexes-in-cassandra) |
 | [Tools for Cassandra Titans](#apache-cassandra-lunch-58-tools-for-cassandra-titans) | [YouTube]() | [SlideShare]() |
 | [Functions in Cassandra](#apache-cassandra-lunch-59-functions-in-cassandra) | [YouTube](https://youtu.be/0XKth-HG0Po) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-59-functions-in-cassandra) |
-| [Apache Cassandra and Apache Nifi](#apache-cassandra-lunch-60-apache-cassandra-and-apache-nifi) | [YouTube]() | [SlideShare]() |
+| [Apache Cassandra and Apache Nifi](#apache-cassandra-lunch-60-apache-cassandra-and-apache-nifi) | [YouTube](https://youtu.be/oEnankpWuWQ) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-60-apache-cassandra-and-apache-nifi) |
 | [Elassandra](#apache-cassandra-lunch-61-elassandra) | [YouTube](https://youtu.be/jhmYb2xcdXo) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-61-elassandra) |
 | [Grafana Dashboard for Apache Cassandra](#apache-cassandra-lunch-62-grafana-dashboard-for-apache-cassandra) | [YouTube](https://youtu.be/ATfKQ9YLfv8) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-62-grafana-dashboard-for-apache-cassandra) |
+| [How to Install Cassandra 4.0 From a Tarball On Linux](#apache-cassandra-lunch-63-how-to-install-cassandra-40-from-a-tarball-on-linux) | [YouTube]() | [SlideShare]() |
+| [Cassandra for .NET Developers](#apache-cassandra-lunch-64-cassandra-for-net-developers) | [YouTube]() | [SlideShare]() |
+| [Spark Cassandra Connector Pushdown](#apache-cassandra-lunch-65-spark-cassandra-connector-pushdow) | [YouTube](https://youtu.be/Ap7zltyUExE) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-65-spark-cassandra-connector-pushdown) |
+| [Using DBeaver with Cassandra](#apache-cassandra-lunch-66-using-dbeaver-with-cassandra) | [YouTube](https://youtu.be/g0lOWHKzMyc) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-66-using-dbeaver-with-cassandra) |
+| [Moving Data from Cassandra to Datastax Astra](#apache-cassandra-lunch-67-moving-data-from-cassandra-to-datastax-astra) | [YouTube](https://youtu.be/0k7RBf5vi5M) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-67-moving-data-from-cassandra-to-datastax-astra) |
+| [DataStax Apache Kafka Connector](#apache-cassandra-lunch-68-datastax-apache-kafka-connector) | [YouTube](https://youtu.be/jin2AyNyYqs) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-68-datastax-apache-kafka-connector) |
 - - - 
 
 ### Apache Cassandra Lunch Online Meetup #10: Cassandra 4.0
@@ -323,51 +329,157 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-46-apache-spark-jobs-in-scala-for-cassandra-data-operations)
 
 - - -
+
 ### [Apache Cassandra Lunch #48: Airflow and Cassandra](https://blog.anant.us/apache-cassandra-lunch-48-airflow-and-cassandra/)
 - In Cassandra Lunch #48, we will discuss using Airflow and Cassandra together. Airflow provides a Cassandra connection type and a Cassandra operator. We will explore what we can do to manage a Cassandra cluster via Airflow. 
     - [YouTube](https://youtu.be/h2OCveciEIA)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-48-airflow-and-cassandra)
 
 - - -
+
 ### [Apache Cassandra Lunch #49: Spark SQL for Cassandra Data Operations](https://blog.anant.us/apache-cassandra-lunch-49-spark-sql-for-cassandra-data-operations/)
 - We will discuss how to use Spark SQL to do Cassandra data operations such as moving data in Apache Cassandra tables.
     - [YouTube](https://youtu.be/eu7Rs9d4oFg)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-49-spark-sql-for-cassandra-data-operations)
 
 - - -
+
 ### [Apache Cassandra Lunch #50: Machine Learning with Spark + Cassandra](https://blog.anant.us/apache-cassandra-lunch-50-machine-learning-with-spark-cassandra/)
 - In Apache Cassandra Lunch #50, we will discuss how you can use Apache Spark and Apache Cassandra to perform basic Machine Learning tasks.
     - [YouTube](https://youtu.be/myIX0kkpL9U)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-50-machine-learning-with-spark-cassandra)
 
 - - -
+
 ### [Apache Cassandra Lunch #51: Cassandra Cluster Design & Architecture](https://blog.anant.us/apache-cassandra-lunch-51-cassandra-cluster-design-and-architecture/)
 - In Cassandra Lunch #51, we will discuss an overview of Cassandra cluster architecture, not to be confused with the Cassandra database architecture. Specifically, using Cassandra Datacenters to isolate workloads.
     - [YouTube](https://youtu.be/JWeKAu7XnYk)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-51-cassandra-cluster-design-architecture)
 
 - - -
+
 ### [Apache Cassandra Lunch #52: Airflow and Cassandra - Cluster Management](https://blog.anant.us/apache-cassandra-lunch-52-airflow-and-cassandra-for-cluster-management/)
 - In Cassandra Lunch #52, we will continue our discussion on using Airflow and Cassandra together. Last time we discussed the Cassandra operators and how they allow us to manipulate data on a Cassandra cluster. This time we will explore what other Cassandra processes we can manage from Airflow.
     - [YouTube](https://youtu.be/l6T735IxDiI)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-52-airflow-and-cassandra-for-cluster-management)
 
 - - -
+
 ### [Apache Cassandra Lunch #53: Cassandra ETL with Airflow and Spark](https://blog.anant.us/apache-cassandra-lunch-53-cassandra-etl-with-airflow-and-spark/)
 - We will discuss how we can set up a Cassandra ETL pipeline using Airflow and Spark
     - [YouTube](https://youtu.be/Bex__3cwiI0)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-53-cassandra-etl-with-airflow-and-spark)
 
 - - -
+
 ### [Apache Cassandra Lunch #54: Machine Learning with Spark + Cassandra Part 2](https://blog.anant.us/apache-cassandra-lunch-54-machine-learning-with-spark-cassandra-part-2/)
 - We will discuss how we can set up a Cassandra ETL pipeline using Airflow and Spark
     - [YouTube](https://youtu.be/3roCSBWQzRk)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-54-machine-learning-with-spark-cassandra-part-2/)
 
 - - -
+
 ### [Apache Cassandra Lunch #55: Migrating PostgreSQL to Cassandra](https://blog.anant.us/apache-cassandra-lunch-55-migrating-postgresql-to-cassandra/)
 - We will discuss the process and reasons for migrating your database from SQL(PostgreSQL) to NoSQL(Cassandra)
     - [YouTube](https://youtu.be/nNfq-XdcdNA)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-55-migrating-postgresql-to-cassandra)
+
+- - -
+
+### [Apache Cassandra Lunch #56: Using Spark SQL Parquet Tables in DSEFS / DSE Analytics](https://blog.anant.us/apache-cassandra-lunch-56-using-spark-sql-parquet-tables-in-dsefs-dse-analytics)
+- We will discuss using Spark Parquet tables in DSEFS and DSE analytics.
+    - [YouTube](https://youtu.be/yaMB1FTSwUw)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-56-using-spark-sql-parquet-tables-in-dsefs-dse-analytics)
+
+- - -
+
+### [Apache Cassandra Lunch #57: Using Secondary Indexes in Cassandra - Anil Mittana](https://blog.anant.us/apache-cassandra-lunch-57-using-secondary-indexes-in-cassandra/)
+- In Cassandra Lunch #57, we will be having guest speaker Anil Mittana present on using Secondary Indexes in Cassandra.
+    - [YouTube](https://youtu.be/H0kdNk9qb5k)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-57-using-secondary-indexes-in-cassandra)
+
+- - -
+
+### [Apache Cassandra Lunch #58: Tools for Cassandra Titans]()
+- In Cassandra Lunch #58, Rahul Singh will be leading a presentation covering a Cassandra topic we're sure you won't want to miss.
+    - [YouTube]()
+    - [SlideShare]()
+
+- - -
+
+### [Apache Cassandra Lunch #59: Functions in Cassandra](https://blog.anant.us/apache-cassandra-lunch-59-functions-in-cassandra)
+- In Cassandra Lunch #59, we will discuss the use of  Default functions as well as User Defined Functions (UDFs) in Cassandra.
+    - [YouTube](https://youtu.be/0XKth-HG0Po)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-59-functions-in-cassandra)
+
+- - -
+
+### [Apache Cassandra Lunch #60: Apache Cassandra and Apache Nifi](https://blog.anant.us/apache-cassandra-lunch-60-apache-cassandra-and-apache-nifi/)
+- In Apache Cassandra Lunch #60, we will discuss how we can use Apache Nifi with Apache Cassandra
+    - [YouTube](https://youtu.be/oEnankpWuWQ)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-60-apache-cassandra-and-apache-nifi)
+
+- - -
+
+### [Apache Cassandra Lunch #61: Elassandra](https://blog.anant.us/apache-cassandra-lunch-61-elassandra)
+- In Apache Cassandra Lunch #61, we will discuss different ways of indexing and working with Elassandra
+    - [YouTube](https://youtu.be/jhmYb2xcdXo)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-61-elassandra)
+
+- - -
+
+### [Apache Cassandra Lunch #62: Grafana Dashboard for Apache Cassandra](https://blog.anant.us/apache-cassandra-lunch-62-grafana-dashboard-for-apache-cassandra)
+- In Apache Cassandra Lunch #62, guest speaker Sarma Pydipally will be presenting on the Grafana Dashboard for Cassandra.
+    - [YouTube](https://youtu.be/ATfKQ9YLfv8)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-62-grafana-dashboard-for-apache-cassandra)
+
+- - -
+
+### [Apache Cassandra Lunch #63: How to Install Cassandra 4.0 From a Tarball On Linux]()
+- In Apache Cassandra Lunch #63, CEO of Anant Rahul Singh went over a live demo of how to install Cassandra 4.0 from a tarball on Linux.
+    - [YouTube]()
+    - [SlideShare]()
+
+- - -
+
+### [Apache Cassandra Lunch #64: Cassandra for .NET Developers]()
+- In Cassandra Lunch #64: Cassandra for .NET Developers, Co-founder, Customer Experience Architect, and Sitecore MVP of Anant, Eric Ramseur will be presenting on Cassandra for .NET developers.
+    - [YouTube]()
+    - [SlideShare]()
+
+- - -
+
+### [Apache Cassandra Lunch #65: Spark Cassandra Connector Pushdown](https://blog.anant.us/apache-cassandra-lunch-65-spark-cassandra-connector-pushdown/)
+- In Apache Cassandra Lunch #65 we will discuss how the Spark Cassandra Connector pushes some parts of a query down to Cassandra, and what that has to do with normal Spark SQL predicate pushdown.
+    - [YouTube](https://youtu.be/Ap7zltyUExE)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-65-spark-cassandra-connector-pushdown)
+
+- - -
+
+### [Apache Cassandra Lunch #66: Using DBeaver with Cassandra](https://blog.anant.us/apache-cassandra-lunch-66-using-dbeaver-enterprise-with-cassandra)
+- In Apache Cassandra Lunch #66, we will discuss the enterprise version of DBeaver and demonstrate how it can be used with a Cassandra Database.
+    - [YouTube](https://youtu.be/g0lOWHKzMyc)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-66-using-dbeaver-with-cassandra)
+
+- - -
+
+### [Apache Cassandra Lunch #67: Moving Data from Cassandra to Datastax Astra](https://blog.anant.us/apache-cassandra-lunch-67-moving-data-from-cassandra-to-datastax-astra-with-dsbulk)
+- In Apache Cassandra Lunch #67, we will discuss how to move data from Open Source Cassandra to Datastax Astra using dsbulk/scylla migrator.
+    - [YouTube](https://youtu.be/0k7RBf5vi5M)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-67-moving-data-from-cassandra-to-datastax-astra)
+
+- - -
+
+### [Apache Cassandra Lunch #67: Moving Data from Cassandra to Datastax Astra](https://blog.anant.us/apache-cassandra-lunch-67-moving-data-from-cassandra-to-datastax-astra-with-dsbulk)
+- In Apache Cassandra Lunch #67, we will discuss how to move data from Open Source Cassandra to Datastax Astra using dsbulk/scylla migrator.
+    - [YouTube](https://youtu.be/0k7RBf5vi5M)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-67-moving-data-from-cassandra-to-datastax-astra)
+
+- - -
+
+### [Apache Cassandra Lunch #68: DataStax Apache Kafka Connector](https://blog.anant.us/apache-cassandra-lunch-68-datastax-apache-kafka-connector)
+- In Apache Cassandra Lunch #68, We will introduce the DataStax Apache Kafka Connector and discuss how we can use it to connect Apache Kafka and Cassandra
+    - [YouTube](https://youtu.be/jin2AyNyYqs)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-68-datastax-apache-kafka-connector)
 
 - - -
