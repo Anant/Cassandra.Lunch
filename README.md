@@ -83,7 +83,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [Deploy Cassandra using DSE Operator to Kubernetes](#apache-cassandra-lunch-78-deploy-cassandra-using-dse-operator-to-kubernetes) | [YouTube](https://youtu.be/Cfvks4WBtKk) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-78-deploy-cassandra-using-dse-operator-to-kubernetes) |
 | [Cassandra API in Cosmos DB](#apache-cassandra-lunch-79-cassandra-api-in-cosmos-db) | [YouTube]() | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-79-cassandra-api-in-cosmos-db) |
 | [How to Use Cassandra for Content Management](#apache-cassandra-lunch-80-how-to-use-cassandra-for-content-management) | [YouTube](https://youtu.be/gAKLyRopdQE) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-80-how-to-use-cassandra-for-content-management) |
-| [Redash and Cassandra](#apache-cassandra-lunch-81-redash-and-cassandra) | [YouTube]() | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-52-jupyterhubjupyterlab-on-kubernetes) |
+| [Redash and Cassandra](#apache-cassandra-lunch-81-redash-and-cassandra) | [YouTube]() | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-81-redash-and-cassandra-251589052) |
 | [Instaclustr Managed Cassandra and Next.js](#apache-cassandra-lunch-82-instaclustr-managed-cassandra-and-nextjs) | [YouTube]() | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-82-instaclustr-managed-cassandra-and-nextjs-251427619) |
 | [Aiven Managed Cassandra](#apache-cassandra-lunch-83-aiven-managed-cassandra) | [YouTube]() | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-83-aiven-managed-cassandra) |
 | [Data & Analytics Platform: Cassandra, Spark, Kafka](#apache-cassandra-lunch-84-data--analytics-platform-cassandra-spark-kafka) | [YouTube](https://youtu.be/EjRDdXMsQO4) | [SlideShare]() |
@@ -598,7 +598,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 ### Apache Cassandra Lunch #81: Redash and Cassandra
 - In Cassandra Lunch #81, we will discuss how we can use Redash to do BI on Cassandra data! 
     - [YouTube](https://youtu.be/2h0qfAS8oSQ)
-    - [SlideShare]()
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-81-redash-and-cassandra-251589052)
 
 - - -
 
