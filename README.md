@@ -1,7 +1,10 @@
 # Cassandra.Lunch
 Resources from weekly Zoom lunches revolving around Apache Cassandra and Apache Cassandra-related topics. Hosted by Anant Corporation.
 
-[Join Cassandra Lunch Weekly at 12 PM EST Every Wednesday](https://www.meetup.com/Cassandra-DataStax-DC/events/)
+[Join Cassandra Lunch Weekly at 12 PM EST Every Thursday!](https://www.meetup.com/Cassandra-DataStax-DC/events/)
+
+[Watch Cassandra Lunches Live and Subscribe to Our YouTube Channel to Keep Up to Date!](https://www.youtube.com/anantcorp)
+
 
 If you would like to be a guest speaker, you can reach us at solutions@anant.us. If you would like to sponsor Cassandra Lunch, please reach us at the email listed above.
 
