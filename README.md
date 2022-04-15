@@ -100,7 +100,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [Securing Apache Cassandra - Managing Roles and Permissions](#apache-cassandra-lunch-92-securing-apache-cassandra---managing-roles-and-permissions) | [YouTube](https://youtu.be/r5J9S0yGzfY) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-92-securing-apache-cassandra-managing-roles-and-permissions) |
 | [K8ssandra on Digital Ocean](#apache-cassandra-lunch-93-k8ssandra-on-digital-ocean) | [YouTube](https://youtu.be/i1C81vYqiOw) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-93-k8ssandra-on-digital-ocean) |
 | [StreamSets and Cassandra](#apache-cassandra-lunch-94-streamsets-and-cassandra) | [YouTube](https://youtu.be/9-v5mOk6c9c) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-94-streamsets-and-cassandra) |
-| [Spark Graph Operations with DSEGraphFrames Scala API](#apache-cassandra-lunch-95-spark-graph-operations-with-dsegraphframes-scala-api) | [YouTube](https://youtu.be/fqP9NCejPYM) | [SlideShare]() |
+| [Spark Graph Operations with DSEGraphFrames Scala API](#apache-cassandra-lunch-95-spark-graph-operations-with-dsegraphframes-scala-api) | [YouTube](https://youtu.be/fqP9NCejPYM) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-95-spark-graph-operations-with-dsegraphframes-scala-api) |
 - - - 
 
 ### Apache Cassandra Lunch Online Meetup #10: Cassandra 4.0
@@ -697,6 +697,6 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 ### Apache Cassandra Lunch #95: Spark Graph Operations with DSEGraphFrames Scala API
 - In Cassandra Lunch #95, Obioma Anomnachi will discuss the DSEGraphFrames library which allows Spark to perform operations on graph databases.
     - [YouTube](https://youtu.be/fqP9NCejPYM)
-    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-94-streamsets-and-cassandra)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-95-spark-graph-operations-with-dsegraphframes-scala-api)
   
 - - -
