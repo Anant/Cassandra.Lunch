@@ -101,6 +101,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [K8ssandra on Digital Ocean](#apache-cassandra-lunch-93-k8ssandra-on-digital-ocean) | [YouTube](https://youtu.be/i1C81vYqiOw) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-93-k8ssandra-on-digital-ocean) |
 | [StreamSets and Cassandra](#apache-cassandra-lunch-94-streamsets-and-cassandra) | [YouTube](https://youtu.be/9-v5mOk6c9c) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-94-streamsets-and-cassandra) |
 | [Spark Graph Operations with DSEGraphFrames Scala API](#apache-cassandra-lunch-95-spark-graph-operations-with-dsegraphframes-scala-api) | [YouTube](https://youtu.be/fqP9NCejPYM) | [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-95-spark-graph-operations-with-dsegraphframes-scala-api) |
+| [Apache Cassandra Change Data Capture (CDC) Strategies](#apache-cassandra-lunch-96-apache-cassandra-change-data-capture-cdc-strategies) | [YouTube](https://youtu.be/HjgqAhsCQ64) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-96-apache-cassandra-change-data-capture-cdc-strategies) |
 - - - 
 
 ### Apache Cassandra Lunch Online Meetup #10: Cassandra 4.0
@@ -698,5 +699,11 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 - In Cassandra Lunch #95, Obioma Anomnachi will discuss the DSEGraphFrames library which allows Spark to perform operations on graph databases.
     - [YouTube](https://youtu.be/fqP9NCejPYM)
     - [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-95-spark-graph-operations-with-dsegraphframes-scala-api)
+  
+- - -
+### Apache Cassandra Lunch #96: Apache Cassandra Change Data Capture (CDC) Strategies
+- In Cassandra Lunch #96, Rahul Singh, CEO of Anant, will discuss different ways to get change data into and out of Cassandra using a few different strategies which could work out for your platform.
+    - [YouTube](https://youtu.be/HjgqAhsCQ64)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-96-apache-cassandra-change-data-capture-cdc-strategies)
   
 - - -
