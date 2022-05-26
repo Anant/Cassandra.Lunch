@@ -735,8 +735,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 
 ### Apache Cassandra Lunch #100: Cassandra - Where it fits in your Product or Platform
 - In Cassandra Lunch #100, CEO of Anant, Rahul Singh, will discuss which companies currently use Cassandra and what products use it as their backend. We will also take a look at how far Cassandra has come and how players like Scylla, Yugabyte, have brought value, and how the Saas and managed service providers can help.
-    - [YouTube](https://youtu.be/SJfkoIE1scw](https://youtu.be/fQGwekIlrL4)
-    - [SlideShare]()
+    - [YouTube](https://youtu.be/fQGwekIlrL4)
   
 - - -
 
