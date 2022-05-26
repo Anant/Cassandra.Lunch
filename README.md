@@ -105,7 +105,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [Cassandra DataSource for Grafana](#apache-cassandra-lunch-97-cassandra-datasource-for-grafana) | [YouTube](https://youtu.be/ubdzGu1Jt5E) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-97-cassandra-datasource-for-grafana) |
 | [Cassandra on k3s](#apache-cassandra-lunch-98-cassandra-on-k3s) | [YouTube](https://youtu.be/tY3bsW8qJb4) | 
 | [CQL Arithmetic Operators](#apache-cassandra-lunch-99-cql-arithmetic-operators) | [YouTube](https://youtu.be/SJfkoIE1scw) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-99-cql-arithmetic-operators) |
-[Cassandra - Where it fits in your Product or Platform](#apache-cassandra-lunch-100-cassandra---where-it-fits-in-your-product-or-platform) | [YouTube](https://youtu.be/SJfkoIE1scw](https://youtu.be/fQGwekIlrL4) | [SlideShare]() |
+[Cassandra - Where it fits in your Product or Platform](#apache-cassandra-lunch-100-cassandra---where-it-fits-in-your-product-or-platform) | [YouTube](https://youtu.be/fQGwekIlrL4) |  |
 [IoT and Cassandra](#apache-cassandra-lunch-101-iot-and-cassandra) | [YouTube](https://youtu.be/IJbgPAcwXQw) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-101-iot-and-cassandra) |
 - - - 
 
