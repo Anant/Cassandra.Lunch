@@ -107,6 +107,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | [CQL Arithmetic Operators](#apache-cassandra-lunch-99-cql-arithmetic-operators) | [YouTube](https://youtu.be/SJfkoIE1scw) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-99-cql-arithmetic-operators) |
 [Cassandra - Where it fits in your Product or Platform](#apache-cassandra-lunch-100-cassandra---where-it-fits-in-your-product-or-platform) | [YouTube](https://youtu.be/fQGwekIlrL4) |  |
 [IoT and Cassandra](#apache-cassandra-lunch-101-iot-and-cassandra) | [YouTube](https://youtu.be/IJbgPAcwXQw) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-101-iot-and-cassandra) |
+[Choreography vs Orchestration](#apache-cassandra-lunch-102-choreography-vs-orchestration) | [YouTube](https://youtu.be/aM6G9VT9Iiw) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-102-choreography-vs-orchestration) |
 - - - 
 
 ### Apache Cassandra Lunch Online Meetup #10: Cassandra 4.0
@@ -743,5 +744,12 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 - In Apache Cassandra Lunch #101, Obioma Anomnachi will discuss the use of Cassandra for IoT (Internet of Things) workloads. We will discuss data modeling for IoT, as well as different ways devices might send data back to the cluster.
     - [YouTube](https://youtu.be/IJbgPAcwXQw)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-101-iot-and-cassandra)
+  
+- - -
+
+### Apache Cassandra Lunch #102: Choreography vs Orchestration
+- In Apache Cassandra Lunch #102, Stefan Nikolovski will discuss Choreography vs Orchestration / Google Workflows.
+    - [YouTube](https://youtu.be/aM6G9VT9Iiw)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-102-choreography-vs-orchestration)
   
 - - -
