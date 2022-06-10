@@ -108,6 +108,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 [Cassandra - Where it fits in your Product or Platform](#apache-cassandra-lunch-100-cassandra---where-it-fits-in-your-product-or-platform) | [YouTube](https://youtu.be/fQGwekIlrL4) |  |
 [IoT and Cassandra](#apache-cassandra-lunch-101-iot-and-cassandra) | [YouTube](https://youtu.be/IJbgPAcwXQw) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-101-iot-and-cassandra) |
 [Choreography vs Orchestration](#apache-cassandra-lunch-102-choreography-vs-orchestration) | [YouTube](https://youtu.be/aM6G9VT9Iiw) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-102-choreography-vs-orchestration) |
+[Cassandra Cluster Architecture in UML and the Azure Digital Twin Domain Language](#apache-cassandra-lunch-103-cassandra-cluster-architecture-in-uml-and-the-azure-digital-twin-domain-language) | [YouTube](https://youtu.be/LhxbJA1AbQY) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-103-cassandra-cluster-architecture-in-uml-and-the-azure-digital-twin-domain-language) |
 - - - 
 
 ### Apache Cassandra Lunch Online Meetup #10: Cassandra 4.0
@@ -751,5 +752,12 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 - In Apache Cassandra Lunch #102, Stefan Nikolovski will discuss Choreography vs Orchestration / Google Workflows.
     - [YouTube](https://youtu.be/aM6G9VT9Iiw)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-102-choreography-vs-orchestration)
+  
+- - -
+
+### Apache Cassandra Lunch #103: Cassandra Cluster Architecture in UML and the Azure Digital Twin Domain Language
+- In Cassandra Lunch #103, Nicholas Brackley will discuss how to connect to an Azure Digital Twin resource, view the models in Azure’s environment, and investigate the functions available using the DTDL resources on Azure’s platform.
+    - [YouTube](https://youtu.be/LhxbJA1AbQY)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-103-cassandra-cluster-architecture-in-uml-and-the-azure-digital-twin-domain-language)
   
 - - -
