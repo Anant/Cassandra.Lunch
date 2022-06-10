@@ -605,21 +605,21 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 
 - - -
 
-### Apache Cassandra Lunch #81: Redash and Cassandra
+### [Apache Cassandra Lunch #81: Redash and Cassandra](https://blog.anant.us/apache-cassandra-lunch-81-redash-and-cassandra/)
 - In Cassandra Lunch #81, we will discuss how we can use Redash to do BI on Cassandra data! 
     - [YouTube](https://youtu.be/2h0qfAS8oSQ)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-81-redash-and-cassandra-251589052)
 
 - - -
 
-### Apache Cassandra Lunch #82: Instaclustr Managed Cassandra and Next.js
+### [Apache Cassandra Lunch #82: Instaclustr Managed Cassandra and Next.js](https://blog.anant.us/apache-cassandra-lunch-82-instaclustr-managed-cassandra-and-next-js/)
 - In Cassandra Lunch #82, we will discuss how to set up a Instaclustr managed Cassandra on Next.js 
     - [YouTube](https://youtu.be/3UfyXEt4djg)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-82-instaclustr-managed-cassandra-and-nextjs-251427619)
 
 - - -
 
-### Apache Cassandra Lunch #83: Aiven Managed Cassandra
+### [Apache Cassandra Lunch #83: Aiven Managed Cassandra](https://blog.anant.us/apache-cassandra-lunch-83-aiven-managed-cassandra/)
 - In Cassandra Lunch #83, we will introduce Aiven's Managed Cassandra offering and show how we can connect to Aiven with Node.js and CQLSH
     - [YouTube](https://youtu.be/YGInRmx88OA)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-83-aiven-managed-cassandra)
@@ -638,14 +638,14 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 
 - - -
 
-### Apache Cassandra Lunch #86: DataStax Astra Terraform Provider
+### [Apache Cassandra Lunch #86: DataStax Astra Terraform Provider](https://blog.anant.us/apache-cassandra-lunch-86-datastax-astra-terraform-provider/)
 - In Cassandra Lunch #86, we will discuss the DataStax Astra Terraform Provider and discuss how it can be used to manage DataStax Astra infrastructure
     - [YouTube](https://youtu.be/XAjr_KnnWpk)
     - [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-86-datastax-astra-terraform-provider)
 
 - - -
 
-### Apache Cassandra Lunch #87: Recreating Cassandra.api using Astra and Stargate
+### [Apache Cassandra Lunch #87: Recreating Cassandra.api using Astra and Stargate](https://blog.anant.us/apache-cassandra-lunch-87-cassandra-api-astra-and-stargate/)
 - In Cassandra Lunch #87, we will work on using AstraDBs included Stargate API layer to substitute for the written Node and Python APIs in our Cassandra.api project.
     - [YouTube](https://youtu.be/EIygDS5qsk4)
     - [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-87-recreating-cassandraapi-using-astra-and-stargate)
@@ -687,7 +687,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
   
 - - -
 
-### Apache Cassandra Lunch #93: K8ssandra on Digital Ocean
+### [Apache Cassandra Lunch #93: K8ssandra on Digital Ocean](https://blog.anant.us/k8ssandra-on-digital-ocean/)
 - In Cassandra Lunch #93, we will discuss how to use k8ssandra on Digital Ocean
     - [YouTube](https://youtu.be/i1C81vYqiOw)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-93-k8ssandra-on-digital-ocean)
@@ -695,7 +695,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 - - -
 
 
-### Apache Cassandra Lunch #94: StreamSets and Cassandra
+### [Apache Cassandra Lunch #94: StreamSets and Cassandra](https://blog.anant.us/apache-cassandra-lunch-94-streamsets-and-cassandra/)
 - In Cassandra Lunch #94, Arpan Patel will discuss how to connect StreamSets and Cassandra.
     - [YouTube](https://youtu.be/9-v5mOk6c9c)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-94-streamsets-and-cassandra)
@@ -728,7 +728,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
   
 - - -
 
-### Apache Cassandra Lunch #99: CQL Arithmetic Operators
+### [Apache Cassandra Lunch #99: CQL Arithmetic Operators](https://blog.anant.us/apache-cassandra-lunch-99-cql-arithmetic-operators/)
 - In Cassandra Lunch #99, Arpan Patel will discuss the CQL Arithmetic Operators that are now supported in Cassandra 4.0!
     - [YouTube](https://youtu.be/SJfkoIE1scw)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-99-cql-arithmetic-operators)
