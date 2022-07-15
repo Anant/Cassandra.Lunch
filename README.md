@@ -109,6 +109,11 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 [IoT and Cassandra](#apache-cassandra-lunch-101-iot-and-cassandra) | [YouTube](https://youtu.be/IJbgPAcwXQw) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-101-iot-and-cassandra) |
 [Choreography vs Orchestration](#apache-cassandra-lunch-102-choreography-vs-orchestration) | [YouTube](https://youtu.be/aM6G9VT9Iiw) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-102-choreography-vs-orchestration) |
 [Cassandra Cluster Architecture in UML and the Azure Digital Twin Domain Language](#apache-cassandra-lunch-103-cassandra-cluster-architecture-in-uml-and-the-azure-digital-twin-domain-language) | [YouTube](https://youtu.be/LhxbJA1AbQY) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-103-cassandra-cluster-architecture-in-uml-and-the-azure-digital-twin-domain-language) |
+[DataOps - Cleaning Data in Apache Cassandra](#apache-cassandra-lunch-104-dataops---cleaning-data-in-apache-cassandra) | [YouTube](https://youtu.be/8bHzW6A-Hv8) | [SlideShare]() |
+[Cassandra, Presto, and Airflow](#apache-cassandra-lunch-105-cassandra-presto-and-airflow) | [YouTube](https://youtu.be/fEWKlaP3MLA) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-105-cassandra-presto-and-airflow) |
+[SSL with Apache Cassandra](#apache-cassandra-lunch-106-ssl-with-apache-cassandra) | [YouTube](https://youtu.be/26oiGM2i-D4) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-106-ssl-with-apache-cassandra) |
+[Guardrails](#apache-cassandra-lunch-107-guardrails) | [YouTube](https://youtu.be/DEVKqJeKfSw) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-107-guardrails) |
+
 - - - 
 
 ### Apache Cassandra Lunch Online Meetup #10: Cassandra 4.0
@@ -760,4 +765,36 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
     - [YouTube](https://youtu.be/LhxbJA1AbQY)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-103-cassandra-cluster-architecture-in-uml-and-the-azure-digital-twin-domain-language)
   
+- - -
+
+### Apache Cassandra Lunch #104: DataOps - Cleaning Data in Apache Cassandra
+- In Apache Cassandra Lunch #104, CEO of Anant, Rahul Singh, will discuss methods and strategies to manage big data in Apache Cassandra after you’ve got it already stored. We’ll discuss how to delete or apply TTLs after the fact, how to operationalize processes with Apache Airflow and Apache Spark, and how to manage Data hygiene as a strategy so that you’re not stuck with bad data later.
+    - [YouTube](https://youtu.be/8bHzW6A-Hv8)
+    - [SlideShare]()
+
+
+- - -
+
+### Apache Cassandra Lunch #105: Cassandra, Presto, and Airflow
+- In Apache Cassandra Lunch #105, Arpan Patel will discuss how to run read, join, and write queries on Cassandra by Presto orchestrated via Airflow
+    - [YouTube](https://youtu.be/fEWKlaP3MLA)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-105-cassandra-presto-and-airflow)
+
+
+- - -
+
+### Apache Cassandra Lunch #106: SSL with Apache Cassandra
+- In Cassandra lunch #106, Dipan Shah will discuss enabling SSL on an Apache Cassandra cluster.
+    - [YouTube](https://youtu.be/26oiGM2i-D4)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-106-ssl-with-apache-cassandra)
+
+
+- - -
+
+### Apache Cassandra Lunch #107: Guardrails
+- In Cassandra lunch #107, Dipan Shah will discuss how Guardrails works in Apache Cassandra.
+    - [YouTube](https://youtu.be/DEVKqJeKfSw)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-107-guardrails)
+
+
 - - -
