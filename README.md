@@ -113,7 +113,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | 105 | [Cassandra, Presto, and Airflow](#apache-cassandra-lunch-105-cassandra-presto-and-airflow) | [YouTube](https://youtu.be/fEWKlaP3MLA) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-105-cassandra-presto-and-airflow) |
 | 106 | [SSL with Apache Cassandra](#apache-cassandra-lunch-106-ssl-with-apache-cassandra) | [YouTube](https://youtu.be/26oiGM2i-D4) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-106-ssl-with-apache-cassandra) |
 | 107 | [Guardrails](#apache-cassandra-lunch-107-guardrails) | [YouTube](https://youtu.be/DEVKqJeKfSw) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-107-guardrails) |
-| 108 | [Developing Enterprise Consciousness](#apache-cassandra-lunch-108-developing-enterprise-consciousness-with-apache-cassandra) | [YouTube](https://youtu.be/1CUqebK3qRE) | [SlideShare]() |
+| 108 | [Developing Enterprise Consciousness](#apache-cassandra-lunch-108-developing-enterprise-consciousness-with-apache-cassandra) | [YouTube](https://youtu.be/1CUqebK3qRE) | |
 | 109 | [DataStax cql-proxy](#apache-cassandra-lunch-109-datastax-cql-proxy) | [YouTube](https://youtu.be/Gg0VoUhXPNI) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-109-datastax-cqlproxy) |
 
 - - - 
@@ -800,7 +800,6 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 ### Apache Cassandra Lunch #108: Developing Enterprise Consciousness with Apache Cassandra
 - In Apache Cassandra Lunch #108, CEO of Anant, Rahul Singh, will discuss developing enterprise consciousness with Apache Cassandra
     - [YouTube](https://youtu.be/1CUqebK3qRE)
-    - [SlideShare]()
 
 - - -
 
