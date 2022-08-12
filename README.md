@@ -115,6 +115,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | 107 | [Guardrails](#apache-cassandra-lunch-107-guardrails) | [YouTube](https://youtu.be/DEVKqJeKfSw) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-107-guardrails) |
 | 108 | [Developing Enterprise Consciousness](#apache-cassandra-lunch-108-developing-enterprise-consciousness-with-apache-cassandra) | [YouTube](https://youtu.be/1CUqebK3qRE) | |
 | 109 | [DataStax cql-proxy](#apache-cassandra-lunch-109-datastax-cql-proxy) | [YouTube](https://youtu.be/Gg0VoUhXPNI) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-109-datastax-cqlproxy) |
+| 110 | [Full Query Logging](#apache-cassandra-lunch-110-full-query-logging) | [YouTube](https://youtu.be/Y5CYYbX3bvk) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-110-full-query-logging) |
 
 - - - 
 
@@ -807,5 +808,12 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 - In Apache Cassandra Lunch #109, Arpan Patel will discuss DataStax’s cql-proxy tool and show how you can use it with DataStax Astra
     - [YouTube](https://youtu.be/Gg0VoUhXPNI)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-109-datastax-cqlproxy)
+
+- - -
+
+### Apache Cassandra Lunch #110: Full Query Logging
+- In Apache Cassandra Lunch #110, Dipan Shah will discuss full query logging.
+    - [YouTube](https://youtu.be/Y5CYYbX3bvk)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-110-full-query-logging)
 
 - - -
