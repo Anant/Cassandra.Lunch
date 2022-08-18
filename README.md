@@ -116,7 +116,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | 108 | [Developing Enterprise Consciousness](#apache-cassandra-lunch-108-developing-enterprise-consciousness-with-apache-cassandra) | [YouTube](https://youtu.be/1CUqebK3qRE) | |
 | 109 | [DataStax cql-proxy](#apache-cassandra-lunch-109-datastax-cql-proxy) | [YouTube](https://youtu.be/Gg0VoUhXPNI) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-109-datastax-cqlproxy) |
 | 110 | [Full Query Logging](#apache-cassandra-lunch-110-full-query-logging) | [YouTube](https://youtu.be/Y5CYYbX3bvk) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-110-full-query-logging) |
-| 112 | [Azure Cassandra Proxy](#apache-cassandra-lunch-112-azure-cassandra-proxy) | [YouTube](https://youtu.be/nxbb5k4QNeU) | [SlideShare](https://youtu.be/nxbb5k4QNeU) |
+| 112 | [Azure Cassandra Proxy](#apache-cassandra-lunch-112-azure-cassandra-proxy) | [YouTube](https://youtu.be/nxbb5k4QNeU) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-112-azure-cassandra-proxy) |
 
 - - - 
 
