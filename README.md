@@ -117,6 +117,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | 109 | [DataStax cql-proxy](#apache-cassandra-lunch-109-datastax-cql-proxy) | [YouTube](https://youtu.be/Gg0VoUhXPNI) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-109-datastax-cqlproxy) |
 | 110 | [Full Query Logging](#apache-cassandra-lunch-110-full-query-logging) | [YouTube](https://youtu.be/Y5CYYbX3bvk) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-110-full-query-logging) |
 | 112 | [Azure Cassandra Proxy](#apache-cassandra-lunch-112-azure-cassandra-proxy) | [YouTube](https://youtu.be/nxbb5k4QNeU) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-112-azure-cassandra-proxy) |
+| 113 | [ScyllaDB V: NoSQL Innovations for Extreme Scale](#apache-cassandra-lunch-113-scylladb-v-nosql-innovations-for-extreme-scale) | [YouTube](https://youtu.be/LaEI5e0Yz6Q) | |
 
 - - - 
 
@@ -823,5 +824,11 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 - In Apache Cassandra Lunch #112, Arpan Patel will discuss Azure's Cassandra Dual Write Proxy
     - [YouTube](https://youtu.be/nxbb5k4QNeU)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-112-azure-cassandra-proxy)
+
+- - -
+
+### Apache Cassandra Lunch #113: ScyllaDB V: NoSQL Innovations for Extreme Scale
+- With the release of ScyllaDB Open Source 5.0 users have a Raft of new capabilities to manage and scale their NoSQL databases — all puns intended. Discover what's new, and why industry gamechangers are moving their workloads to ScyllaDB.
+    - [YouTube](https://youtu.be/LaEI5e0Yz6Q)
 
 - - -
