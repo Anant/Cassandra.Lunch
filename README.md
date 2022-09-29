@@ -828,3 +828,22 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-112-azure-cassandra-proxy)
 
 - - -
+
+### Apache Cassandra Lunch #113: ScyllaDB V: NoSQL Innovations for Extreme Scale
+- With the release of ScyllaDB Open Source 5.0 users have a Raft of new capabilities to manage and scale their NoSQL databases — all puns intended. Discover what's new, and why industry gamechangers are moving their workloads to ScyllaDB.
+    - [YouTube](https://youtu.be/LaEI5e0Yz6Q)
+
+- - -
+
+### Apache Cassandra Lunch #114: Cassandra Virtual Tables
+- In Apache Cassandra lunch #114, Dipan Shah will discuss virtual Tables in Apache Cassandra 4.0
+    - [YouTube](https://youtu.be/ZbJrFy4TlNI)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-114-cassandra-virtual-tables)
+
+- - -
+
+### Apache Cassandra Lunch #115: Google Dataproc and DataStax Astra
+- In Cassandra Lunch #115, Arpan Patel will discuss how to connect Google Dataproc and DataStax Astra with a demo showing you what configurations you will need to get the connection working!
+    - [YouTube](https://youtu.be/3upuBI6OmwU)
+
+- - -
