@@ -120,6 +120,8 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | 113 | [ScyllaDB V: NoSQL Innovations for Extreme Scale](#apache-cassandra-lunch-113-scylladb-v-nosql-innovations-for-extreme-scale) | [YouTube](https://youtu.be/LaEI5e0Yz6Q) | |
 | 114 | [Cassandra Virtual Tables](#apache-cassandra-lunch-114-cassandra-virtual-tables) | [YouTube](https://youtu.be/ZbJrFy4TlNI) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-114-cassandra-virtual-tables)  |
 | 115 | [Google Dataproc and DataStax Astra](#apache-cassandra-lunch-115-google-dataproc-and-datastax-astra) | [YouTube](https://youtu.be/3upuBI6OmwU) | |
+| 116 | [5 Disciplines of a Cassandra Expert](#apache-cassandra-lunch-116-5-disciplines-of-a-cassandra-expert) | [YouTube](https://youtu.be/2jDkVyntCBk) | |
+| 117 | [Integrating YugaByteDB with Microsoft.NET Applications](#apache-cassandra-lunch-117-integrating-yugabytedb-with-microsoft.net-applications) | | |
 
 - - - 
 
@@ -845,5 +847,20 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 ### Apache Cassandra Lunch #115: Google Dataproc and DataStax Astra
 - In Cassandra Lunch #115, Arpan Patel will discuss how to connect Google Dataproc and DataStax Astra with a demo showing you what configurations you will need to get the connection working!
     - [YouTube](https://youtu.be/3upuBI6OmwU)
+
+- - -
+
+### Apache Cassandra Lunch #116: 5 Disciplines of a Cassandra Expert
+- Apache Cassandra is an exceptionally powerful distributed database used by some of the world’s most popular online services. However, the adoption of Cassandra requires some fundamental disciplines to operate it effectively.
+
+Hayato Shimizu is a veteran Cassandra architect having had a hand in some of the world’s largest deployments from media companies to banks.
+
+Hayato will take you through some of the key disciplines you should adopt to ensure Cassandra provides your users and customers the reliability and performance you need.
+    - [YouTube](https://youtu.be/2jDkVyntCBk)
+
+- - -
+
+### Apache Cassandra Lunch #117: Integrating YugaByteDB with Microsoft.NET Applications
+- In this edition of our Apache Cassandra Lunch, Eric Ramseur, the head of growth at Anant will walk attendees through the process of integrating YugaByte real-time data into your Microsoft.NET applications.
 
 - - -
