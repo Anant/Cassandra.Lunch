@@ -122,6 +122,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | 115 | [Google Dataproc and DataStax Astra](#apache-cassandra-lunch-115-google-dataproc-and-datastax-astra) | [YouTube](https://youtu.be/3upuBI6OmwU) | |
 | 116 | [5 Disciplines of a Cassandra Expert](#apache-cassandra-lunch-116-5-disciplines-of-a-cassandra-expert) | [YouTube](https://youtu.be/2jDkVyntCBk) | |
 | 117 | [Integrating YugaByteDB with Microsoft.NET Applications](#apache-cassandra-lunch-117-integrating-yugabytedb-with-microsoft.net-applications) | [YouTube](https://www.youtube.com/watch?v=UOfa7t4DgQ0) | |
+| 118 | [Yugabyte, Spark, and Airflow](#apache-cassandra-lunch-118-yugabyte-spark-and-airflow) | [YouTube](https://youtu.be/iz6ly8BTEYo) | |
 
 - - - 
 
@@ -863,5 +864,11 @@ Hayato will take you through some of the key disciplines you should adopt to ens
 ### Apache Cassandra Lunch #117: Integrating YugaByteDB with Microsoft.NET Applications
 - In this edition of our Apache Cassandra Lunch, Eric Ramseur, the head of growth at Anant will walk attendees through the process of integrating YugaByte real-time data into your Microsoft.NET applications.
     - [YouTube](https://www.youtube.com/watch?v=UOfa7t4DgQ0)
+
+- - -
+
+### Apache Cassandra Lunch #118: Yugabyte, Spark, and Airflow
+- In Apache Cassandra Lunch #118, Arpan Patel will discuss how we can do some simple ETL against Yugabyte using Spark, which will be orchestrated with Airflow.
+    - [YouTube](https://youtu.be/iz6ly8BTEYo)
 
 - - -
