@@ -121,8 +121,9 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | 114 | [Cassandra Virtual Tables](#apache-cassandra-lunch-114-cassandra-virtual-tables) | [YouTube](https://youtu.be/ZbJrFy4TlNI) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-114-cassandra-virtual-tables)  |
 | 115 | [Google Dataproc and DataStax Astra](#apache-cassandra-lunch-115-google-dataproc-and-datastax-astra) | [YouTube](https://youtu.be/3upuBI6OmwU) | |
 | 116 | [5 Disciplines of a Cassandra Expert](#apache-cassandra-lunch-116-5-disciplines-of-a-cassandra-expert) | [YouTube](https://youtu.be/2jDkVyntCBk) | |
-| 117 | [Integrating YugaByteDB with Microsoft.NET Applications](#apache-cassandra-lunch-117-integrating-yugabytedb-with-microsoft.net-applications) | [YouTube](https://www.youtube.com/watch?v=UOfa7t4DgQ0) | |
+| 117 | [Integrating YugaByteDB with Microsoft.NET Applications](#apache-cassandra-lunch-117-integrating-yugabytedb-with-microsoftnet-applications) | [YouTube](https://www.youtube.com/watch?v=UOfa7t4DgQ0) | |
 | 118 | [Yugabyte, Spark, and Airflow](#apache-cassandra-lunch-118-yugabyte-spark-and-airflow) | [YouTube](https://youtu.be/iz6ly8BTEYo) | |
+| 119 | [Desktop GUI Tools for Apache Cassandra - Rahul](#apache-cassandra-lunch-119-desktop-gui-tools-for-apache-cassandra---rahul) | [YouTube](https://youtu.be/1fRtAQ6sEhU) | |
 
 - - - 
 
@@ -870,5 +871,11 @@ Hayato will take you through some of the key disciplines you should adopt to ens
 ### Apache Cassandra Lunch #118: Yugabyte, Spark, and Airflow
 - In Apache Cassandra Lunch #118, Arpan Patel will discuss how we can do some simple ETL against Yugabyte using Spark, which will be orchestrated with Airflow.
     - [YouTube](https://youtu.be/iz6ly8BTEYo)
+
+- - -
+
+### Apache Cassandra Lunch 119: Desktop GUI Tools for Apache Cassandra - Rahul
+-
+    - [YouTube](https://youtu.be/1fRtAQ6sEhU)
 
 - - -
