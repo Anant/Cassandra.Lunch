@@ -875,7 +875,7 @@ Hayato will take you through some of the key disciplines you should adopt to ens
 - - -
 
 ### Apache Cassandra Lunch 119: Desktop GUI Tools for Apache Cassandra - Rahul
--
+- In Apache Cassandra Lunch #119, Rahul Singh will cover a refresher on GUI desktop/web tools for users that want to get their hands dirty with Cassandra but don't want to deal with CQLSH to do simple queries. Some of the tools are web-based and others are installed on your desktop. Since the beginning days of Cassandra, a lot has changed and there are many options for command-line-haters to use Cassandra.
     - [YouTube](https://youtu.be/1fRtAQ6sEhU)
 
 - - -
