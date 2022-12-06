@@ -124,6 +124,8 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | 117 | [Integrating YugaByteDB with Microsoft.NET Applications](#apache-cassandra-lunch-117-integrating-yugabytedb-with-microsoftnet-applications) | [YouTube](https://www.youtube.com/watch?v=UOfa7t4DgQ0) | |
 | 118 | [Yugabyte, Spark, and Airflow](#apache-cassandra-lunch-118-yugabyte-spark-and-airflow) | [YouTube](https://youtu.be/iz6ly8BTEYo) | |
 | 119 | [Desktop GUI Tools for Apache Cassandra - Rahul](#apache-cassandra-lunch-119-desktop-gui-tools-for-apache-cassandra---rahul) | [YouTube](https://youtu.be/1fRtAQ6sEhU) | |
+| 120 | [Apache Cassandra Monitoring Made Easy with AxonOps](#apache-cassandra-lunch-120-apache-cassandra-monitoring-made-easy-with-axonops) | [YouTube](https://youtu.be/famoy0q-YWs) | |
+| 121 | [Migrating to Azure Managed Instance for Apache Cassandra](#apache-cassandra-lunch-121-migrating-to-azure-managed-instance-for-apache-cassandra) | [YouTube](https://youtu.be/hmjjsOySWQA) | |
 
 - - - 
 
@@ -877,5 +879,17 @@ Hayato will take you through some of the key disciplines you should adopt to ens
 ### Apache Cassandra Lunch 119: Desktop GUI Tools for Apache Cassandra - Rahul
 - In Apache Cassandra Lunch #119, Rahul Singh will cover a refresher on GUI desktop/web tools for users that want to get their hands dirty with Cassandra but don't want to deal with CQLSH to do simple queries. Some of the tools are web-based and others are installed on your desktop. Since the beginning days of Cassandra, a lot has changed and there are many options for command-line-haters to use Cassandra.
     - [YouTube](https://youtu.be/1fRtAQ6sEhU)
+
+- - -
+
+### Apache Cassandra Lunch #120: Apache Cassandra Monitoring Made Easy with AxonOps
+- Apache Cassandra is an exceptionally powerful distributed database used by some of the world’s most popular online services. Having the right tools to monitor your Cassandra Cluster is crucial to ensuring an always-on service. Discover a simple and easy way to identify issues and maintain the health of your database with AxonOps. In this session, Johnny will show how easy it is to start monitoring your Cassandra cluster in minutes. He will explain the various aspects and features of Cassandra that need to be monitored, how to do it and most importantly why! Approaches for backups and Cassandra repairs will be discussed and explored in detail. Learn how AxonOps significantly reduces the complexity and overhead when looking after Cassandra and ensures your Cassandra cluster is reliable and resilient. Experienced developer, DevOps, architect and AxonOps co-founder, Johnny Miller, has worked with a wide variety of companies – from small start-ups to large enterprises. He has been working with Cassandra for many years and has a deep understanding of the challenges facing modern companies looking to adopt Apache Cassandra.
+    - [YouTube](https://youtu.be/famoy0q-YWs)
+
+- - -
+
+### Apache Cassandra Lunch #121: Migrating to Azure Managed Instance for Apache Cassandra
+- In Cassandra Lunch #121, Obioma Anomnachi will discuss the use of the Azure Cassandra Migrator for moving data between Apache Cassandra and Azure Managed Instance for Apache Cassandra, comparing it to the alternate migration process of setting up cross datacenter replication on a hybrid cluster.
+    - [YouTube](https://youtu.be/hmjjsOySWQA)
 
 - - -
