@@ -126,6 +126,8 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | 119 | [Desktop GUI Tools for Apache Cassandra - Rahul](#apache-cassandra-lunch-119-desktop-gui-tools-for-apache-cassandra---rahul) | [YouTube](https://youtu.be/1fRtAQ6sEhU) | |
 | 120 | [Apache Cassandra Monitoring Made Easy with AxonOps](#apache-cassandra-lunch-120-apache-cassandra-monitoring-made-easy-with-axonops) | [YouTube](https://youtu.be/famoy0q-YWs) | |
 | 121 | [Migrating to Azure Managed Instance for Apache Cassandra](#apache-cassandra-lunch-121-migrating-to-azure-managed-instance-for-apache-cassandra) | [YouTube](https://youtu.be/hmjjsOySWQA) | |
+| 122 | [CDC for Apache Cassandra - Dipan](#apache-cassandra-lunch-122-cdc-for-apache-cassandra---dipan) | [YouTube](https://youtu.be/dJLnU8vYRUE) | |
+| 123 | [ChatGPT w/ Cassandra: Super Charge Your Skills](#apache-cassandra-lunch-123-chatgpt-w-cassandra-super-charge-your-skills) | [YouTube](https://youtu.be/QfbVuHMZd5Q) | |
 
 - - - 
 
@@ -891,5 +893,17 @@ Hayato will take you through some of the key disciplines you should adopt to ens
 ### Apache Cassandra Lunch #121: Migrating to Azure Managed Instance for Apache Cassandra
 - In Cassandra Lunch #121, Obioma Anomnachi will discuss the use of the Azure Cassandra Migrator for moving data between Apache Cassandra and Azure Managed Instance for Apache Cassandra, comparing it to the alternate migration process of setting up cross datacenter replication on a hybrid cluster.
     - [YouTube](https://youtu.be/hmjjsOySWQA)
+
+- - -
+
+### Apache Cassandra Lunch #122: CDC for Apache Cassandra - Dipan
+- In Apache Cassandra Lunch 122, Dipan Shah will demonstrate how to enable CDC for Apache Cassandra and then send the data to a destination database.
+    - [YouTube](https://youtu.be/dJLnU8vYRUE)
+
+- - -
+
+### Apache Cassandra Lunch #123: ChatGPT w/ Cassandra: Super Charge Your Skills
+- Informal talk on how ChatGPT is changing the world and what it means for people in the Cassandra ecosystem. Learn how to use GPT to help with Development / Admin work with some basic prompts. We'll also discuss how it can be used in data processing in conjunction with Cassandra data as a source and as a sink.
+    - [YouTube](https://youtu.be/QfbVuHMZd5Q)
 
 - - -
