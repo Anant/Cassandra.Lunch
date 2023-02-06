@@ -128,6 +128,8 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | 121 | [Migrating to Azure Managed Instance for Apache Cassandra](#apache-cassandra-lunch-121-migrating-to-azure-managed-instance-for-apache-cassandra) | [YouTube](https://youtu.be/hmjjsOySWQA) | |
 | 122 | [CDC for Apache Cassandra - Dipan](#apache-cassandra-lunch-122-cdc-for-apache-cassandra---dipan) | [YouTube](https://youtu.be/dJLnU8vYRUE) | |
 | 123 | [ChatGPT w/ Cassandra: Super Charge Your Skills](#apache-cassandra-lunch-123-chatgpt-w-cassandra-super-charge-your-skills) | [YouTube](https://youtu.be/QfbVuHMZd5Q) | |
+| 124 | [CDC for Apache Cassandra Part 2](#apache-cassandra-lunch-124-cdc-for-apache-cassandra-part-2) | [YouTube](https://youtu.be/dW0MKTtwfAE) | |
+
 
 - - - 
 
@@ -907,3 +909,10 @@ Hayato will take you through some of the key disciplines you should adopt to ens
     - [YouTube](https://youtu.be/QfbVuHMZd5Q)
 
 - - -
+
+### Apache Cassandra Lunch #124: CDC for Apache Cassandra Part 2
+- In Apache Cassandra Lunch 124, Dipan Shah continues his demonstration on how to enable CDC for Apache Cassandra and then move data from Apache Pulsar into a few destination databases.
+    - [YouTube](https://youtu.be/dW0MKTtwfAE)
+
+- - -
+
