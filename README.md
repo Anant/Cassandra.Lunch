@@ -129,6 +129,9 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 | 122 | [CDC for Apache Cassandra - Dipan](#apache-cassandra-lunch-122-cdc-for-apache-cassandra---dipan) | [YouTube](https://youtu.be/dJLnU8vYRUE) | |
 | 123 | [ChatGPT w/ Cassandra: Super Charge Your Skills](#apache-cassandra-lunch-123-chatgpt-w-cassandra-super-charge-your-skills) | [YouTube](https://youtu.be/QfbVuHMZd5Q) | |
 | 124 | [CDC for Apache Cassandra Part 2](#apache-cassandra-lunch-124-CDC-for-apache-cassandra-part-2) | [YouTube](https://www.youtube.com/watch?v=dW0MKTtwfAE) | |
+| 125 | [Migrating Cassandra Data to YugaByteDB](#apache-cassandra-lunch-125-migrating-cassandra-data-to-yugabyteDB) | [YouTube](https://www.youtube.com/watch?v=sTpeFNBdRWU&t=1038s) | |
+| 126 | [Cassandra.API with ChatGPT / OpenAI GPT API](#apache-cassandra-lunch-126-cassandra-API-with-ChatGPT-OpenAI-GPT-API) | [YouTube](https://www.youtube.com/watch?v=5Lqcnh3HrEs&t=3548s) | |
+| 127 | [Modeling an Effective Cassandra Data Model with Storage Attached Index](#apache-cassandra-lunch-127-modeling-an-effective-cassandra-data-model-with-storage-attached-index) | [YouTube](https://www.youtube.com/watch?v=Q_ub0K3UXtQ&t=2477s) | |
 
 - - - 
 
@@ -912,4 +915,19 @@ Hayato will take you through some of the key disciplines you should adopt to ens
 ### Apache Cassandra Lunch #124: CDC for Apache Cassandra Part 2
 - In Apache Cassandra Lunch 124, Dipan Shah continues his demonstration on how to enable CDC for Apache Cassandra and then move data from Apache Pulsar into a few destination databases.
     - [YouTube](https://www.youtube.com/watch?v=dW0MKTtwfAE)
-- 
+- - -
+
+### Apache Cassandra Lunch #125: Migrating Cassandra Data to YugaByteDB
+- In Apache Cassandra Lunch #125, Obioma Anomnachi will discuss using Airflow and Spark to manage the migration of data between Open Source Cassandra and YugabyteDB.
+    - [YouTube](https://www.youtube.com/live/sTpeFNBdRWU?feature=share)
+- - -
+
+### Apache Cassandra Lunch #126: Cassandra.API with ChatGPT / OpenAI GPT API
+- In this lunch, we will take our cassandra.api repo which is a simple REST endpoint that wraps Cassandra (hosted on Astra), and add some intelligence to it using OpenAI's GPT API. We'll go over the different GPT models that are available and use OpenAI's API in Python to do both batch processing with OpenAI as well as on-the-fly calls when doing REST calls. If you are new to ChatGPT or GPT and want to know how to use it in data engineering processes, especially with Cassandra, you should attend this event.
+    - [YouTube](https://www.youtube.com/watch?v=5Lqcnh3HrEs&t=3548s)
+- - -
+
+### Apache Cassandra Lunch #127: Modeling an Effective Cassandra Data Model with Storage Attached Index
+- Join us for an informative session on "Modeling an Effective Cassandra Data Model with Storage Attached Index". In this lunch, you will learn how to design and implement a Cassandra data model that leverages the power of Storage Attached Index (SAI) to improve query performance and optimize storage. This is a must-attend event for developers, architects, and data engineers looking to gain insights and hands-on experience in Cassandra data modeling.
+    - [YouTube](https://www.youtube.com/watch?v=Q_ub0K3UXtQ&t=2477s)
+- - -
