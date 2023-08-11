@@ -945,31 +945,31 @@ Hayato will take you through some of the key disciplines you should adopt to ens
 
   - - -
 
-  ### Apache Cassandra Lunch #130: Recap of Cassandra Forward Talks
+  ### [Apache Cassandra Lunch #130: Recap of Cassandra Forward Talks](https://www.youtube.com/live/0ibjKhcRj1o?feature=share)
 - If you didn't attend, you don't want to miss a much shorter synopsis of what was covered and get some thoughts from us as to why they are important. We'll talk about the main topics of the event.
     - [YouTube](https://www.youtube.com/live/0ibjKhcRj1o?feature=share) 
 
   - - -
 
-  ### Apache Cassandra Lunch #131: YugabyteDB Developer Tools
+  ### [Apache Cassandra Lunch #131: YugabyteDB Developer Tools](https://www.youtube.com/live/W7qWvGR0Oyw?feature=share)
 - In Apache Cassandra Lunch #131, Obioma Anomnachi will discuss third-party tools that connect to YugabyteDB clusters. Because of YugabyteDB's YSQL and YCQL APIs, a number of Postgres and Cassandra tools are compatible.
     - [YouTube](https://www.youtube.com/live/pUSkJNKpi4Y?feature=share)
 
   - - -
 
-  ### Apache Cassandra Lunch #132: Using Terraform Modules and Ansible to Install Cassandra on AWS and Azure
+  ### [Apache Cassandra Lunch #132: Using Terraform Modules and Ansible to Install Cassandra on AWS and Azure](https://www.youtube.com/live/W7qWvGR0Oyw?feature=share)
 - During this lunch, Dipan Shah will demo our cassandra.install repository that uses Terraform Modules to create VMs on AWS and Azure. We’ll then use Ansible to install Cassandra on those VMs.
     - [YouTube](https://www.youtube.com/live/W7qWvGR0Oyw?feature=share) 
 
   - - -
 
-  ### Apache Cassandra Lunch #133: Vector Search with Apache Cassandra
+  ### [Apache Cassandra Lunch #133: Vector Search with Apache Cassandra] (https://www.youtube.com/live/1MSgS5Z9QaY?feature=share)
 - During this lunch, Dipan Shah will demonstrate how to integrate vector search capabilities into Apache Cassandra. This enables Developers to use Cassandra for generative artificial intelligence and other machine learning workloads.
     - [YouTube](https://www.youtube.com/live/1MSgS5Z9QaY?feature=share) 
 
   - - -
 
-  ### Apache Cassandra Lunch #134: CDC for Astra DB
+  ### [Apache Cassandra Lunch #134: CDC for Astra DB] (https://www.youtube.com/live/jUNZ9UVJQ0c?feature=share) 
 - In this Cassandra Lunch, we will demo how to use Change Data Capture for Astra DB with Pulsar and ElasticSearch.
     - [YouTube](https://www.youtube.com/live/jUNZ9UVJQ0c?feature=share) 
 
