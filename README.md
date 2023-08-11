@@ -938,7 +938,7 @@ Hayato will take you through some of the key disciplines you should adopt to ens
 
   - - -
 
-  ### Apache Cassandra Lunch #129: What’s New: Apache Cassandra 4.1+ Features & Future
+  ### [Apache Cassandra Lunch #129: What’s New: Apache Cassandra 4.1+ Features & Future](https://www.youtube.com/live/yxHKiduyDE0?feature=share)
 - Learn about the new Apache Cassandra features and why you should upgrade to 4.1. Also, some upcoming features.
     - [YouTube](https://www.youtube.com/live/yxHKiduyDE0?feature=share)
     - [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-129-whats-new-apache-cassandra-41-features-future)
@@ -963,13 +963,13 @@ Hayato will take you through some of the key disciplines you should adopt to ens
 
   - - -
 
-  ### [Apache Cassandra Lunch #133: Vector Search with Apache Cassandra] (https://www.youtube.com/live/1MSgS5Z9QaY?feature=share)
+  ### [Apache Cassandra Lunch #133: Vector Search with Apache Cassandra](https://www.youtube.com/live/1MSgS5Z9QaY?feature=share)
 - During this lunch, Dipan Shah will demonstrate how to integrate vector search capabilities into Apache Cassandra. This enables Developers to use Cassandra for generative artificial intelligence and other machine learning workloads.
     - [YouTube](https://www.youtube.com/live/1MSgS5Z9QaY?feature=share) 
 
   - - -
 
-  ### [Apache Cassandra Lunch #134: CDC for Astra DB] (https://www.youtube.com/live/jUNZ9UVJQ0c?feature=share) 
+  ### [Apache Cassandra Lunch #134: CDC for Astra DB](https://www.youtube.com/live/jUNZ9UVJQ0c?feature=share) 
 - In this Cassandra Lunch, we will demo how to use Change Data Capture for Astra DB with Pulsar and ElasticSearch.
     - [YouTube](https://www.youtube.com/live/jUNZ9UVJQ0c?feature=share) 
 
