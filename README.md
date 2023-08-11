@@ -743,7 +743,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
   
 - - -
 
-### Apache Cassandra Lunch #98: Cassandra on k3s
+### [Apache Cassandra Lunch #98: Cassandra on k3s](https://youtu.be/tY3bsW8qJb4)
 - In Cassandra Lunch #98, Stefan Nikolovski will discuss Cassandra on k3s.
     - [YouTube](https://youtu.be/tY3bsW8qJb4)
   
@@ -756,108 +756,108 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
   
 - - -
 
-### Apache Cassandra Lunch #100: Cassandra - Where it fits in your Product or Platform
+### [Apache Cassandra Lunch #100: Cassandra - Where it fits in your Product or Platform](https://youtu.be/fQGwekIlrL4)
 - In Cassandra Lunch #100, CEO of Anant, Rahul Singh, will discuss which companies currently use Cassandra and what products use it as their backend. We will also take a look at how far Cassandra has come and how players like Scylla, Yugabyte, have brought value, and how the Saas and managed service providers can help.
     - [YouTube](https://youtu.be/fQGwekIlrL4)
   
 - - -
 
-### Apache Cassandra Lunch #101: IoT and Cassandra
+### [Apache Cassandra Lunch #101: IoT and Cassandra](https://youtu.be/IJbgPAcwXQw)
 - In Apache Cassandra Lunch #101, Obioma Anomnachi will discuss the use of Cassandra for IoT (Internet of Things) workloads. We will discuss data modeling for IoT, as well as different ways devices might send data back to the cluster.
     - [YouTube](https://youtu.be/IJbgPAcwXQw)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-101-iot-and-cassandra)
   
 - - -
 
-### Apache Cassandra Lunch #102: Choreography vs Orchestration
+### [Apache Cassandra Lunch #102: Choreography vs Orchestration](https://youtu.be/aM6G9VT9Iiw)
 - In Apache Cassandra Lunch #102, Stefan Nikolovski will discuss Choreography vs Orchestration / Google Workflows.
     - [YouTube](https://youtu.be/aM6G9VT9Iiw)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-102-choreography-vs-orchestration)
   
 - - -
 
-### Apache Cassandra Lunch #103: Cassandra Cluster Architecture in UML and the Azure Digital Twin Domain Language
+### [Apache Cassandra Lunch #103: Cassandra Cluster Architecture in UML and the Azure Digital Twin Domain Language](https://youtu.be/LhxbJA1AbQY)
 - In Cassandra Lunch #103, Nicholas Brackley will discuss how to connect to an Azure Digital Twin resource, view the models in Azure’s environment, and investigate the functions available using the DTDL resources on Azure’s platform.
     - [YouTube](https://youtu.be/LhxbJA1AbQY)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-103-cassandra-cluster-architecture-in-uml-and-the-azure-digital-twin-domain-language)
   
 - - -
 
-### Apache Cassandra Lunch #104: DataOps - Cleaning Data in Apache Cassandra
+### [Apache Cassandra Lunch #104: DataOps - Cleaning Data in Apache Cassandra](https://youtu.be/8bHzW6A-Hv8)
 - In Apache Cassandra Lunch #104, CEO of Anant, Rahul Singh, will discuss methods and strategies to manage big data in Apache Cassandra after you’ve got it already stored. We’ll discuss how to delete or apply TTLs after the fact, how to operationalize processes with Apache Airflow and Apache Spark, and how to manage Data hygiene as a strategy so that you’re not stuck with bad data later.
     - [YouTube](https://youtu.be/8bHzW6A-Hv8)
     - [SlideShare]()
 
 - - -
 
-### Apache Cassandra Lunch #105: Cassandra, Presto, and Airflow
+### [Apache Cassandra Lunch #105: Cassandra, Presto, and Airflow](https://youtu.be/fEWKlaP3MLA)
 - In Apache Cassandra Lunch #105, Arpan Patel will discuss how to run read, join, and write queries on Cassandra by Presto orchestrated via Airflow
     - [YouTube](https://youtu.be/fEWKlaP3MLA)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-105-cassandra-presto-and-airflow)
 
 - - -
 
-### Apache Cassandra Lunch #106: SSL with Apache Cassandra
+### [Apache Cassandra Lunch #106: SSL with Apache Cassandra](https://youtu.be/26oiGM2i-D4)
 - In Cassandra lunch #106, Dipan Shah will discuss enabling SSL on an Apache Cassandra cluster.
     - [YouTube](https://youtu.be/26oiGM2i-D4)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-106-ssl-with-apache-cassandra)
 
 - - -
 
-### Apache Cassandra Lunch #107: Guardrails
+### [Apache Cassandra Lunch #107: Guardrails](https://youtu.be/DEVKqJeKfSw)
 - In Cassandra lunch #107, Dipan Shah will discuss how Guardrails works in Apache Cassandra.
     - [YouTube](https://youtu.be/DEVKqJeKfSw)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-107-guardrails)
 
 - - -
 
-### Apache Cassandra Lunch #108: Developing Enterprise Consciousness with Apache Cassandra
+### [Apache Cassandra Lunch #108: Developing Enterprise Consciousness with Apache Cassandra](https://youtu.be/1CUqebK3qRE)
 - In Apache Cassandra Lunch #108, CEO of Anant, Rahul Singh, will discuss developing enterprise consciousness with Apache Cassandra
     - [YouTube](https://youtu.be/1CUqebK3qRE)
 
 - - -
 
-### Apache Cassandra Lunch #109: DataStax cql-proxy
+### [Apache Cassandra Lunch #109: DataStax cql-proxy](https://youtu.be/Gg0VoUhXPNI)
 - In Apache Cassandra Lunch #109, Arpan Patel will discuss DataStax’s cql-proxy tool and show how you can use it with DataStax Astra
     - [YouTube](https://youtu.be/Gg0VoUhXPNI)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-109-datastax-cqlproxy)
 
 - - -
 
-### Apache Cassandra Lunch #110: Full Query Logging
+### [Apache Cassandra Lunch #110: Full Query Logging](https://youtu.be/Y5CYYbX3bvk)
 - In Apache Cassandra Lunch #110, Dipan Shah will discuss full query logging.
     - [YouTube](https://youtu.be/Y5CYYbX3bvk)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-110-full-query-logging)
 
 - - -
 
-### Apache Cassandra Lunch #112: Azure Cassandra Proxy
+### [Apache Cassandra Lunch #112: Azure Cassandra Proxy](https://youtu.be/nxbb5k4QNeU)
 - In Apache Cassandra Lunch #112, Arpan Patel will discuss Azure's Cassandra Dual Write Proxy
     - [YouTube](https://youtu.be/nxbb5k4QNeU)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-112-azure-cassandra-proxy)
 
 - - -
 
-### Apache Cassandra Lunch #113: ScyllaDB V: NoSQL Innovations for Extreme Scale
+### [Apache Cassandra Lunch #113: ScyllaDB V: NoSQL Innovations for Extreme Scale](https://youtu.be/LaEI5e0Yz6Q)
 - With the release of ScyllaDB Open Source 5.0 users have a Raft of new capabilities to manage and scale their NoSQL databases — all puns intended. Discover what's new, and why industry gamechangers are moving their workloads to ScyllaDB.
     - [YouTube](https://youtu.be/LaEI5e0Yz6Q)
 
 - - -
 
-### Apache Cassandra Lunch #114: Cassandra Virtual Tables
+### [Apache Cassandra Lunch #114: Cassandra Virtual Tables](https://youtu.be/ZbJrFy4TlNI)
 - In Apache Cassandra lunch #114, Dipan Shah will discuss virtual Tables in Apache Cassandra 4.0
     - [YouTube](https://youtu.be/ZbJrFy4TlNI)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-114-cassandra-virtual-tables)
 
 - - -
 
-### Apache Cassandra Lunch #115: Google Dataproc and DataStax Astra
+### [Apache Cassandra Lunch #115: Google Dataproc and DataStax Astra](https://youtu.be/3upuBI6OmwU)
 - In Cassandra Lunch #115, Arpan Patel will discuss how to connect Google Dataproc and DataStax Astra with a demo showing you what configurations you will need to get the connection working!
     - [YouTube](https://youtu.be/3upuBI6OmwU)
 
 - - -
 
-### Apache Cassandra Lunch #116: 5 Disciplines of a Cassandra Expert
+### [Apache Cassandra Lunch #116: 5 Disciplines of a Cassandra Expert](https://youtu.be/2jDkVyntCBk)
 - Apache Cassandra is an exceptionally powerful distributed database used by some of the world’s most popular online services. However, the adoption of Cassandra requires some fundamental disciplines to operate it effectively.
 
 Hayato Shimizu is a veteran Cassandra architect having had a hand in some of the world’s largest deployments from media companies to banks.
@@ -867,72 +867,72 @@ Hayato will take you through some of the key disciplines you should adopt to ens
 
 - - -
 
-### Apache Cassandra Lunch #117: Integrating YugaByteDB with Microsoft.NET Applications
+### [Apache Cassandra Lunch #117: Integrating YugaByteDB with Microsoft.NET Applications](https://www.youtube.com/watch?v=UOfa7t4DgQ0)
 - In this edition of our Apache Cassandra Lunch, Eric Ramseur, the head of growth at Anant will walk attendees through the process of integrating YugaByte real-time data into your Microsoft.NET applications.
     - [YouTube](https://www.youtube.com/watch?v=UOfa7t4DgQ0)
 
 - - -
 
-### Apache Cassandra Lunch #118: Yugabyte, Spark, and Airflow
+### [Apache Cassandra Lunch #118: Yugabyte, Spark, and Airflow](https://youtu.be/iz6ly8BTEYo)
 - In Apache Cassandra Lunch #118, Arpan Patel will discuss how we can do some simple ETL against Yugabyte using Spark, which will be orchestrated with Airflow.
     - [YouTube](https://youtu.be/iz6ly8BTEYo)
 
 - - -
 
-### Apache Cassandra Lunch 119: Desktop GUI Tools for Apache Cassandra - Rahul
+### [Apache Cassandra Lunch 119: Desktop GUI Tools for Apache Cassandra](https://youtu.be/1fRtAQ6sEhU)
 - In Apache Cassandra Lunch #119, Rahul Singh will cover a refresher on GUI desktop/web tools for users that want to get their hands dirty with Cassandra but don't want to deal with CQLSH to do simple queries. Some of the tools are web-based and others are installed on your desktop. Since the beginning days of Cassandra, a lot has changed and there are many options for command-line-haters to use Cassandra.
     - [YouTube](https://youtu.be/1fRtAQ6sEhU)
 
 - - -
 
-### Apache Cassandra Lunch #120: Apache Cassandra Monitoring Made Easy with AxonOps
+### [Apache Cassandra Lunch #120: Apache Cassandra Monitoring Made Easy with AxonOps](https://youtu.be/famoy0q-YWs)
 - Apache Cassandra is an exceptionally powerful distributed database used by some of the world’s most popular online services. Having the right tools to monitor your Cassandra Cluster is crucial to ensuring an always-on service. Discover a simple and easy way to identify issues and maintain the health of your database with AxonOps. In this session, Johnny will show how easy it is to start monitoring your Cassandra cluster in minutes. He will explain the various aspects and features of Cassandra that need to be monitored, how to do it and most importantly why! Approaches for backups and Cassandra repairs will be discussed and explored in detail. Learn how AxonOps significantly reduces the complexity and overhead when looking after Cassandra and ensures your Cassandra cluster is reliable and resilient. Experienced developer, DevOps, architect and AxonOps co-founder, Johnny Miller, has worked with a wide variety of companies – from small start-ups to large enterprises. He has been working with Cassandra for many years and has a deep understanding of the challenges facing modern companies looking to adopt Apache Cassandra.
     - [YouTube](https://youtu.be/famoy0q-YWs)
 
 - - -
 
-### Apache Cassandra Lunch #121: Migrating to Azure Managed Instance for Apache Cassandra
+### [Apache Cassandra Lunch #121: Migrating to Azure Managed Instance for Apache Cassandra](https://youtu.be/hmjjsOySWQA)
 - In Cassandra Lunch #121, Obioma Anomnachi will discuss the use of the Azure Cassandra Migrator for moving data between Apache Cassandra and Azure Managed Instance for Apache Cassandra, comparing it to the alternate migration process of setting up cross datacenter replication on a hybrid cluster.
     - [YouTube](https://youtu.be/hmjjsOySWQA)
 
 - - -
 
-### Apache Cassandra Lunch #122: CDC for Apache Cassandra - Dipan
+### [Apache Cassandra Lunch #122: CDC for Apache Cassandra](https://youtu.be/dJLnU8vYRUE)
 - In Apache Cassandra Lunch 122, Dipan Shah will demonstrate how to enable CDC for Apache Cassandra and then send the data to a destination database.
     - [YouTube](https://youtu.be/dJLnU8vYRUE)
 
 - - -
 
-### Apache Cassandra Lunch #123: ChatGPT w/ Cassandra: Super Charge Your Skills
+### [Apache Cassandra Lunch #123: ChatGPT w/ Cassandra: Super Charge Your Skills](https://youtu.be/QfbVuHMZd5Q)
 - Informal talk on how ChatGPT is changing the world and what it means for people in the Cassandra ecosystem. Learn how to use GPT to help with Development / Admin work with some basic prompts. We'll also discuss how it can be used in data processing in conjunction with Cassandra data as a source and as a sink.
     - [YouTube](https://youtu.be/QfbVuHMZd5Q)
 
 - - -
 
-### Apache Cassandra Lunch #124: CDC for Apache Cassandra Part 2
+### [Apache Cassandra Lunch #124: CDC for Apache Cassandra Part 2](https://www.youtube.com/watch?v=dW0MKTtwfAE)
 - In Apache Cassandra Lunch 124, Dipan Shah continues his demonstration on how to enable CDC for Apache Cassandra and then move data from Apache Pulsar into a few destination databases.
     - [YouTube](https://www.youtube.com/watch?v=dW0MKTtwfAE)
 
 - - -
 
-### Apache Cassandra Lunch #125: Migrating Cassandra Data to YugabyteDB
+### [Apache Cassandra Lunch #125: Migrating Cassandra Data to YugabyteDB](https://www.youtube.com/live/sTpeFNBdRWU?feature=share)
 - In Apache Cassandra Lunch #125, Obioma Anomnachi will discuss using Airflow and Spark to manage the migration of data between Open Source Cassandra and YugabyteDB. 
     - [YouTube](https://www.youtube.com/live/sTpeFNBdRWU?feature=share)
  
   - - -
 
-### Apache Cassandra Lunch #126: Cassandra.API with ChatGPT / OpenAI GPT API
+### [Apache Cassandra Lunch #126: Cassandra.API with ChatGPT / OpenAI GPT API](https://youtu.be/QfbVuHMZd5Q)
 - In this lunch, we will take our cassandra.api repo which is a simple REST endpoint that wraps Cassandra (hosted on Astra), and add some intelligence to it using OpenAI's GPT API. We'll go over the different GPT models that are available and use OpenAI's API in Python to do both batch processing with OpenAI as well as on-the-fly calls when doing REST calls. If you are new to ChatGPT or GPT and want to know how to use it in data engineering processes, especially with Cassandra, you should attend this event.
     - [YouTube](https://youtu.be/QfbVuHMZd5Q) 
 
   - - -
 
-### Apache Cassandra Lunch #127: Modeling an Effective Cassandra Data Model with Storage Attached Index
+### [Apache Cassandra Lunch #127: Modeling an Effective Cassandra Data Model with Storage Attached Index](https://www.youtube.com/live/Q_ub0K3UXtQ?feature=share)
 - Join us for an informative session on "Modeling an Effective Cassandra Data Model with Storage Attached Index". In this lunch, you will learn how to design and implement a Cassandra data model that leverages the power of Storage Attached Index (SAI) to improve query performance and optimize storage. This is a must-attend event for developers, architects, and data engineers looking to gain insights and hands-on experience in Cassandra data modeling.
     - [YouTube](https://www.youtube.com/live/Q_ub0K3UXtQ?feature=share) 
 
   - - -
-### Apache Cassandra Lunch #128: Migrating Relational Data to YugabyteDB using Yugabyte Voyager
+### [Apache Cassandra Lunch #128: Migrating Relational Data to YugabyteDB using Yugabyte Voyager](https://www.youtube.com/live/dsNweRuUNIs?feature=share)
 - In Apache Cassandra Lunch #128, Obioma Anomnachi will discuss using Yugabyte’s own migration tool, Yugabyte Voyager, to move data from existing RDBMS systems to YugabyteDB.
     - [YouTube](https://www.youtube.com/live/dsNweRuUNIs?feature=share) 
 
