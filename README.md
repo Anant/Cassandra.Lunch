@@ -459,7 +459,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 
 - - -
 
-### Apache Cassandra Lunch #58: Tools for Cassandra Titans
+### [Apache Cassandra Lunch #58: Tools for Cassandra Titans](https://youtu.be/l4mAt3MDVZA)
 - In Cassandra Lunch #58, Rahul Singh will be leading a presentation covering a Cassandra topic we're sure you won't want to miss..
     - [YouTube](https://youtu.be/l4mAt3MDVZA)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-58-tools-for-cassandra-titans)
@@ -494,14 +494,14 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 
 - - -
 
-### Apache Cassandra Lunch #63: How to Install Cassandra 4.0 From a Tarball On Linux
+### [Apache Cassandra Lunch #63: How to Install Cassandra 4.0 From a Tarball On Linux](https://youtu.be/Xmzr7Kvb0bg)
 - In Apache Cassandra Lunch #63, CEO of Anant Rahul Singh went over a live demo of how to install Cassandra 4.0 from a tarball on Linux
     - [YouTube](https://youtu.be/Xmzr7Kvb0bg)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-63-how-to-install-cassandra-40-from-a-tarball-on-linux)
 
 - - -
 
-### Apache Cassandra Lunch #64: Cassandra for .NET Developers
+### [Apache Cassandra Lunch #64: Cassandra for .NET Developers](https://youtu.be/9DwnDGak6Yo)
 - In Cassandra Lunch #64: Cassandra for .NET Developers, Co-founder, Customer Experience Architect, and Sitecore MVP of Anant, Eric Ramseur will be presenting on Cassandra for .NET developers.
     - [YouTube](https://youtu.be/9DwnDGak6Yo)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-64-cassandra-for-net-developers)
@@ -536,7 +536,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 
 - - -
 
-### Apache Cassandra Lunch #69: k8ssandra
+### [Apache Cassandra Lunch #69: k8ssandra](https://youtu.be/tFfqjiNIgTs)
 - In Apache Cassandra Lunch #69, we will discuss getting started with k8ssandra
     - [YouTube](https://youtu.be/tFfqjiNIgTs)
     - [SlideShare]()
@@ -584,7 +584,7 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 
 - - -
 
-### Apache Cassandra Lunch #76: Tombstone Mitigation Strategies - Aaron Ploetz
+### [Apache Cassandra Lunch #76: Tombstone Mitigation Strategies - Aaron Ploetz](https://youtu.be/_3JycaRl7TE)
 - In Cassandra Lunch #76, Aaron Ploetz, Tech Author at DataStax is going to be presenting on Tombstone Mitigation Strategies.
     - [YouTube](https://youtu.be/_3JycaRl7TE)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-76-tombstone-mitigation-strategies-aaron-ploetz)
@@ -605,14 +605,14 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 
 - - -
 
-### Apache Cassandra Lunch #79: Cassandra API in Cosmos DB
+### [Apache Cassandra Lunch #79: Cassandra API in Cosmos DB](https://youtu.be/_MgeT9iualw)
 - In Cassandra Lunch #79 we will discuss how Cosmos DB compares to Cassandra, by setting up an old project that puts a REST API over a Cassandra table using Cassandra drivers to use data stored in CosmosDB instead. We will also discuss Cosmos DBs Cassandra API and it's connections to cqlsh. 
     - [YouTube](https://youtu.be/_MgeT9iualw)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-79-cassandra-api-in-cosmos-db)
 
 - - -
 
-### Apache Cassandra Lunch #79: Cassandra API in Cosmos DB
+### [Apache Cassandra Lunch #79: Cassandra API in Cosmos DB](https://youtu.be/_MgeT9iualw)
 - In Cassandra Lunch #79 we will discuss how Cosmos DB compares to Cassandra, by setting up an old project that puts a REST API over a Cassandra table using Cassandra drivers to use data stored in CosmosDB instead. We will also discuss Cosmos DBs Cassandra API and it's connections to cqlsh. 
     - [YouTube](https://youtu.be/_MgeT9iualw)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-79-cassandra-api-in-cosmos-db)
@@ -647,13 +647,13 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 
 - - -
 
-### Apache Cassandra Lunch #84: Data & Analytics Platform: Cassandra, Spark, Kafka
+### [Apache Cassandra Lunch #84: Data & Analytics Platform: Cassandra, Spark, Kafka](https://youtu.be/EjRDdXMsQO4)
 - In Apache Cassandra Lunch #84, the CEO of Anant Rahul Singh will be presenting on Data Platform Design around Cassandra, Spark, and Kafka
     - [YouTube](https://youtu.be/EjRDdXMsQO4)
 
 - - -
 
-### Apache Cassandra Lunch #85: Top 10 Open-Source Projects Using Cassandra in 2022
+### [Apache Cassandra Lunch #85: Top 10 Open-Source Projects Using Cassandra in 2022](https://youtu.be/nrySrn5mVcY)
 - In Cassandra Lunch #85, we will discuss some of the most popular open-source projects using Cassandra in 2022.
     - [YouTube](https://youtu.be/nrySrn5mVcY)
 
@@ -673,35 +673,35 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
 
 - - -
 
-### Apache Cassandra Lunch #88: Cadence
+### [Apache Cassandra Lunch #88: Cadence](https://youtu.be/YPPPM0F0xw0)
 - In Cassandra Lunch #87, we will work on using AstraDBs included Stargate API layer to substitute for the written Node and Python APIs in our Cassandra.api project.
     - [YouTube](https://youtu.be/YPPPM0F0xw0)
     - [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-88-cadence)
 
 - - -
 
-### Apache Cassandra Lunch #89: Semi-Structured Data in Cassandra
+### [Apache Cassandra Lunch #89: Semi-Structured Data in Cassandra](https://youtu.be/ZhNnn51BRUc)
 - In Cassandra Lunch #89, we will discuss how to store and parse semi-structured data in Cassandra using Spark
     - [YouTube](https://youtu.be/ZhNnn51BRUc)
     - [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-89-semistructured-data-in-cassandra)
 
 - - -
 
-### Apache Cassandra Lunch #90: Securing Apache Cassandra
+### [Apache Cassandra Lunch #90: Securing Apache Cassandra](https://youtu.be/VK3sqh7XxIU)
 - In Cassandra Lunch #90, CEO of Anant, Rahul Singh, will discuss the different ways to secure Apache Cassandra. This is going to be an overview of the built-in features as well as other options that can be used
     - [YouTube](https://youtu.be/VK3sqh7XxIU)
     - [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-90-securing-apache-cassandra)
 
 - - -
 
-### Apache Cassandra Lunch #91: Collections in Cassandra
+### [Apache Cassandra Lunch #91: Collections in Cassandra](https://youtu.be/z2Fs2TNuuyQ)
 - In Cassandra Lunch #91, we will discuss the collection types in Cassandra and how the frozen modifier changes the way that Cassandra interacts with them.
     - [YouTube](https://youtu.be/z2Fs2TNuuyQ)
     - [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-91-collections-in-cassandra)
   
 - - -
 
-### Apache Cassandra Lunch #92: Securing Apache Cassandra - Managing Roles and Permissions
+### [Apache Cassandra Lunch #92: Securing Apache Cassandra - Managing Roles and Permissions](https://youtu.be/r5J9S0yGzfY)
 - In Cassandra Lunch #92, CEO of Anant, Rahul Singh, will discuss how to design and manage roles and permissions in Apache Cassandra to secure multiple applications and users for a growing platform with new use cases.
     - [YouTube](https://youtu.be/r5J9S0yGzfY)
     - [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-92-securing-apache-cassandra-managing-roles-and-permissions)
@@ -723,20 +723,20 @@ Check out the Cassandra.Lunch playlist on [Youtube](https://www.youtube.com/play
   
 - - -
 
-### Apache Cassandra Lunch #95: Spark Graph Operations with DSEGraphFrames Scala API
+### [Apache Cassandra Lunch #95: Spark Graph Operations with DSEGraphFrames Scala API](https://youtu.be/fqP9NCejPYM)
 - In Cassandra Lunch #95, Obioma Anomnachi will discuss the DSEGraphFrames library which allows Spark to perform operations on graph databases.
     - [YouTube](https://youtu.be/fqP9NCejPYM)
     - [SlideShare](https://www.slideshare.net/AnantCorp/cassandra-lunch-95-spark-graph-operations-with-dsegraphframes-scala-api)
   
 - - -
-### Apache Cassandra Lunch #96: Apache Cassandra Change Data Capture (CDC) Strategies
+### [Apache Cassandra Lunch #96: Apache Cassandra Change Data Capture (CDC) Strategies](https://youtu.be/HjgqAhsCQ64)
 - In Cassandra Lunch #96, Rahul Singh, CEO of Anant, will discuss different ways to get change data into and out of Cassandra using a few different strategies which could work out for your platform.
     - [YouTube](https://youtu.be/HjgqAhsCQ64)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-96-apache-cassandra-change-data-capture-cdc-strategies)
   
 - - -
 
-### Apache Cassandra Lunch #97: Cassandra DataSource for Grafana
+### [Apache Cassandra Lunch #97: Cassandra DataSource for Grafana](https://youtu.be/ubdzGu1Jt5E)
 - In Apache Cassandra Lunch #97, Obioma Anomnachi will discuss using the new Cassandra Datasource for Grafana to visualize any time series data stored in Cassandra.
     - [YouTube](https://youtu.be/ubdzGu1Jt5E)
     - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-97-cassandra-datasource-for-grafana)
